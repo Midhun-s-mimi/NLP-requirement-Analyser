@@ -1,0 +1,1001 @@
+id,requirement_text,domain,clarity_label,ambiguity_types,completeness_label,testability_label,source,annotation_confidence
+f498b4ca-cd96-4656-b6c4-ae64b005019f,The platform needs to be adequate.,Social Media,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+bc47fdf8-1bd4-46c0-bd3c-f9df9b981ba5,The software should handle significant data.,Healthcare,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+3a7ffcd6-1e61-47ec-bbee-d2970a4c7f17,The system shall limit failed login attempts to 25 before locking the account for 25 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+50fa7a34-dcc3-43b7-a65b-652d8d935b3a,The module must load the dashboard in under 5 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+7cb4d6e4-80bb-46b4-b215-f530dd615f3a,The platform should have an intuitive interface.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9265ea85-0887-4ff6-b017-ad33c32582ee,The system must validate user input.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+623e4113-5123-41ff-9e9a-0cd770d99819,The platform must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+21f27f73-bf1b-4a00-81a9-a594a4ea7d1e,The software needs to be good.,Food Delivery,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+2faf0648-c348-455c-9ae9-113262efd3c6,The platform must be highly scalable.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a16d1b95-bef3-4d51-824f-74015fd93587,The database shall automatically back up every 29 hours.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+29326e88-f6c5-4109-b079-61649d0fe954,The software must be robust and reliable.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b2aec216-5e4f-4e7e-8543-c6e58eb2099e,The service shall encrypt all user passwords using SHA-256.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+813e1b9d-761d-4cc1-83ce-34e8003a3285,The service shall encrypt all user passwords using SHA-256.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+1ab7c5d1-7646-4234-88fd-f9940e5e07c4,The software shall respond quickly.,Food Delivery,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+259950ec-9df8-475a-a490-36b2491f8752,The system shall send notifications.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+267b5dd6-02d0-4a3d-9012-abdee2ec84ee,The system should be easy to maintain.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+608336f6-3dc6-4a59-a190-eefc404888a0,The system must load the dashboard in under 36 seconds on a 4G network.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+77220425-1ea4-41ba-acd6-8e2499cd5157,The service must be highly scalable.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+28818ebc-541a-4fdc-9c51-a3455f380ac1,The module shall be highly beautiful.,Mobile Applications,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+0a2d0e17-8dcc-4e48-9a17-8756faf115b2,The module should be easy to maintain.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d74c5d08-13bf-4a89-a277-65b0ee0056d6,The system should handle substantial data.,Social Media,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+9ad9959c-ad0e-4ed4-a06b-5bcef0636335,The service must validate user input.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+7cc7715f-db89-49ad-9ab2-ab5bfbe19aa2,The platform should have an intuitive interface.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+51eb06ff-6967-41db-9845-e65c9664ee0b,The platform should have an intuitive interface.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+71e541f7-0c2e-4ec1-adf5-4434ba55c225,The application must validate user input.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+de3eef20-40b9-4463-a1ca-2eb7041b4e83,The application should have an intuitive interface.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+36582673-e9cc-4104-bfb3-601a4d37d171,The system must be impenetrable.,E-commerce,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+5af3e0c2-ae76-432d-9622-771ff77ca256,The service shall generate reports.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+aeb0ada1-4cc5-455f-bdee-42dcef79e01f,The service shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+7dac3a03-d3e4-44ca-939c-dfa3617484a3,The application must be robust and reliable.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+35b065a9-61c1-4128-be63-76490c1292a9,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3fb47b19-2676-4c13-9020-392ba7fb9280,The module shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4175dfa6-9af1-48e4-9db7-c13b63b2702d,The application must be impenetrable.,Education,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+aec90b21-ac87-488e-a009-dcd88d7506c7,The platform must be highly scalable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9e4079a4-e6f2-49da-87e7-f182fe1e9fc6,The application should backup data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+804bbc99-6a16-4c01-b60c-1ecf12af5d0d,The application shall generate reports.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d203c321-65b9-4c6a-9eb7-ae7373e68bec,The software should be easy to maintain.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f7ded0e7-c3d2-41c4-9158-4ba8c82dfd7c,The database shall automatically back up every 55 hours.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+5dd41e0a-8b9a-4675-b9f2-f55afd1f0765,The system shall respond rapidly.,Education,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+57aa4a45-0700-4d56-ac39-b194820c02b6,The service shall be user-friendly.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+739f1ce8-a907-4d9e-9da1-0409bb2ffb19,Users shall be able to reset their password via email within 21 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+64ba7904-60ae-4d50-81e7-4daf928fc66e,The system shall limit failed login attempts to 45 before locking the account for 45 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+259f87e2-f37e-4f37-b07f-830f62fd811d,The system must support up to 16 concurrent users without performance degradation.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+ac26988b-14cd-4c2a-bade-197cfc79f6a8,The service shall send notifications.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+2a63ecc5-b596-449c-ba13-ea4a2276781c,The system must be highly scalable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c059f59c-9fbc-439e-b888-58166608a880,The software shall respond instantly.,Healthcare,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+02131671-d634-4fa2-9cb9-b7ec08133f65,The system shall process the payment transaction within 41 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+5bb3aba0-a78c-470d-b042-7ea19b7d51f7,The service must support multiple users.,E-commerce,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+e70931dc-3b25-41a6-9ddf-612bd51dca64,The application should be easy to maintain.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f1ea42ba-3bc3-4dd0-bf91-59abdd5e8183,The service needs to be appropriate.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+d68ecd99-ce0a-4406-ae0e-3356fa145cab,The platform must validate user input.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ca3c1491-d7ad-4b43-a962-0b8095e95661,The software should have an intuitive interface.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+37287f61-c012-43d5-b0b1-b7dadef8cf0c,The module should handle massive data.,IoT,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+71d80a26-1bd3-43b1-817f-1cd10da5fd20,The module shall integrate with third-party services.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c84914e2-5114-4388-a6e2-3f228f5b7635,The module should be architecturally sound.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b975c29e-439d-414f-8fd5-590f2e641775,The service shall send notifications.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+d3bcefdc-627f-4dd9-916b-2866ab8c3bc9,The software should handle large data.,IoT,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+7c4b12b1-0b24-47cf-95d5-50108e43b09e,The service shall send notifications.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+87f610d8-bd00-4e67-9414-889543afe7fe,The application needs to be sufficient.,Social Media,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+2865af88-773e-4179-ba67-e1c41a427500,Users shall be able to reset their password via email within 40 minutes.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+0d87666b-3645-4323-8a6b-6cae7c47e7aa,The platform shall process the payment transaction within 5 seconds.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+558b4439-3638-439b-9f97-c1636887c6d9,The application should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a97a9066-fe68-487d-83b8-3e7fb66bbcf5,The module shall generate reports.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c6bf2b8f-3ed8-4a9f-be60-8b5dd60ee988,The platform must be safe.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+1b8379a0-d750-427d-8bba-4c1390e648da,The software shall process the payment transaction within 4 seconds.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+0ad4e57e-6ced-426b-8e6c-c5fcfdb5a979,The module shall process the payment transaction within 12 seconds.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+ce454041-aa6c-4aa0-b586-e958414f8c40,The system should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e4c7c083-e211-4c7b-af47-662370e0b55d,The system shall generate reports.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2a0c9dca-b559-417e-b564-013d27fe2ee3,The application shall send notifications.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+d5447b3a-136b-4809-8641-81056a4e6f75,The software must be highly scalable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1d62e3a9-1048-46e4-b62c-6ff64a999929,The module shall be user-friendly.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6223194a-5c99-485b-9b08-d29bb946ef91,The application shall process requests soon.,Transportation,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+6b656f56-cab1-40b0-a997-44d0d5d9fe9d,Users can export data.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+89a21bce-19e1-4ec9-90ff-04c44442c575,The module must support several users.,E-commerce,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+dbce1111-ba8a-4b0d-a185-04ae3f6461b5,The system shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+785af791-ccc0-400e-a009-b0f32621f304,The service shall respond fast.,Mobile Applications,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+e55023bb-8532-456f-a95b-bf4525759e96,The module must support up to 33 concurrent users without performance degradation.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+e08b1c20-abfc-4a3a-8ba0-2c0c3847cc41,The module should have an intuitive interface.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+80ad6c12-6c0a-42ff-b8b8-a1548c9d4374,The system should handle substantial data.,Mobile Applications,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+07e2a3ad-7165-4ede-9c11-5fe1ad11a827,The module should have an intuitive interface.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f774f1db-b9cf-4930-aa29-0e1c83e72fd8,The system must be highly scalable.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a28f5639-c70f-47bb-a1e0-c05d226510a7,The service must validate user input.,Education,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+486714c3-9a1f-4cc8-bd84-4622332f0cc3,The platform should be easy to maintain.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c52cec0a-3e29-449c-9572-96f796a1e125,The software shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+038a81da-5b94-44ae-9f4d-65bb0103e2d2,The module must validate user input.,Education,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+8598e6b4-9505-498f-813c-80b7010b00a6,The system shall process the payment transaction within 25 seconds.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+033be2ca-5c71-4c5a-9efd-0689fb860f58,The software shall integrate with third-party services.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+530e4e11-5294-4670-b7aa-da61cc08f3af,The service shall generate reports.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+defc0e40-e3cb-40c3-b56e-cf49f1aca21a,The software shall process requests periodically.,Healthcare,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+46d03733-a4fa-47e1-b8a7-90776c3cc9c6,The system should be easy to maintain.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+79f474d9-207e-474b-9a31-91af1168b3ce,The module should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+baba67da-1307-476f-b09f-2211d9f1f7f6,The application shall provide a seamless user experience.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1e693304-7a8c-4564-a4a7-ddafbece09a5,The module should backup data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+93788f9d-3870-4523-bcf4-a78d555400f9,The software should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+99d31b44-c10a-4f46-9793-62a6651a508b,The module should be architecturally sound.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7d5e7bfc-fafe-4015-b671-bbf466fedd73,The module shall encrypt all user passwords using SHA-256.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+07e48636-34b1-4c49-a6af-7b8519b88f2c,The system must support up to 25 concurrent users without performance degradation.,Education,Clear,[],Complete,Testable,synthetic,1.0
+397db8a9-356e-4fd7-ac70-ff76c8b69cbe,The service shall limit failed login attempts to 22 before locking the account for 22 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+9c2cb444-6d62-42b9-8d3a-604949bfe289,The platform should be easy to maintain.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f2f041f1-3ee9-4d44-85ed-9a8610ed5412,The service should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d7e16038-13da-4c6e-89e9-1be23afec819,The software shall encrypt all user passwords using SHA-256.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+2af4e1d3-a1cc-4d01-b486-3f35ac1f612b,The module should have an intuitive interface.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7fc60c9c-a1b0-4dab-8f03-1403a5ceae43,The software shall limit failed login attempts to 53 before locking the account for 53 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+e615d596-13ca-4cb8-b78d-c10e9ced5019,The database shall automatically back up every 6 hours.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+0be4ed8a-ed3d-4338-a52d-a699c1711d07,The system must be robust and reliable.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+465a7a55-f4f7-446c-8b4d-8f515c0f1f05,The module must support up to 53 concurrent users without performance degradation.,Education,Clear,[],Complete,Testable,synthetic,1.0
+4ac82ca5-8c10-4d5f-b93b-66ca8d17134c,Users can export data.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e308287e-fc01-45ff-9cf5-ca65cd897baf,The service must be robust and reliable.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+82dd75c2-1300-4e79-9d55-12a6cd6927f7,Users shall be able to reset their password via email within 18 minutes.,Education,Clear,[],Complete,Testable,synthetic,1.0
+2afca253-6d41-4592-bcb8-0e9412999b3d,The platform should handle huge data.,IoT,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+f20c171c-e80d-447f-a74b-b6ca573af157,The software must support up to 58 concurrent users without performance degradation.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+4814a81b-7100-4585-86db-7879feb729bc,The module shall provide a seamless user experience.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b9b95e5c-2924-4767-ae1d-2fac927bbd06,The module needs to be better.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+86bc8fce-fc3f-428d-bce8-5317bc002586,The database shall automatically back up every 21 hours.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+492605e0-4fc9-475a-8147-c2c97369e7ee,The platform should backup data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+11ea8e82-93e4-4c78-8cbc-10892e47bc73,The database shall automatically back up every 41 hours.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+74eebeb8-12cd-435c-9bac-6fdb37a6e3bf,The application shall process the payment transaction within 20 seconds.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+8656a6b3-55b3-45b2-baa6-7c903b8e9871,Users can export data.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+62e70ff6-6eba-443e-a125-ae226bacc40f,The system shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+057353b9-987f-4e4e-abdb-d31914504e89,The platform must validate user input.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+01cd6c8b-9bc3-4bf0-8e6e-5ec5e83c5277,The system shall process the payment transaction within 38 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+6bcff5db-88b8-47c4-968f-dbb4c462c035,The platform shall process requests frequently.,Banking,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+8852a8ce-3032-4a48-a904-80bf652ba063,The platform must support many users.,IoT,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+25224c9e-69a2-4400-95de-1c7337956aaa,The module must support up to 49 concurrent users without performance degradation.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+1cc65ba1-491c-4609-b797-61df18437623,The service needs to be appropriate.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+3725a9e9-2d5a-4066-bd3a-b9a975407088,The system shall be user-friendly.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+949b400f-9f7d-4b48-8a08-771653ed2055,The module should have an intuitive interface.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+367a9832-f455-4616-ba33-3d9db4c49430,The service shall process requests frequently.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+72bb4228-cbf3-440b-8bec-503c1de7bace,The application should be easy to maintain.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+8f2440b7-9acc-4580-9b81-ca7440ef0ad7,Users shall be able to reset their password via email within 37 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+76d70ce7-b929-4247-9dfb-3bdb09c4cd5e,The service should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0fa58271-ac66-4272-b412-d7bef85281ee,The application should handle large data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+45685c0a-0e3b-4f71-b0db-a224af6622b8,The software should handle massive data.,IoT,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+cd9d5fab-e14e-4f4f-89e6-a80f3095261c,The application should have an intuitive interface.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e8ef1c3e-6cfd-4832-bfde-16e803efe459,The module shall process requests regularly.,Education,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+7d80b7d7-14dd-4269-8b83-8a8ed51e4610,The module should be easy to maintain.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a8750130-744a-4cec-9044-d9f0cc06889a,The software must load the dashboard in under 37 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+3dd25b92-5d1d-4921-bac4-ee50e16407b7,The application shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6a56ee9b-f339-4746-8368-089c2af84dde,The module needs to be appropriate.,Transportation,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+6eda8b93-cde0-4487-b29a-5e51929717e9,The database shall automatically back up every 37 hours.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+8805569c-f574-464c-af1f-ff6a60a1ab22,The module shall process the payment transaction within 43 seconds.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+fbe07c8a-af52-48d3-bb5e-7bcc70bc3d7a,The platform must be robust and reliable.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e7daa568-ae49-480a-9393-b0ac028a8925,The module shall be highly efficient.,Education,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+ef49fe49-6dbc-48dc-bf38-9400a65a6d99,The application must be protected.,Education,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+517c67c1-5fc7-415a-a1d2-f420890c60dc,The platform should handle significant data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+e927772c-c0fd-4587-9b3b-dd9ba029349d,The module shall integrate with third-party services.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0f4fd2c1-6295-4bd4-bd59-9939276f62ab,The service must validate user input.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ab006afe-28b2-4756-ad1b-666ca0f53d01,The software shall process the payment transaction within 60 seconds.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+d4edc960-39bf-4681-bc3e-2493d6e29674,The software shall send notifications.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+08d83a64-d20c-45ca-aa52-036a256e8b78,The module shall be highly effective.,E-commerce,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+a28b9b28-b6f9-46d4-8884-371e8b197174,The software should have an intuitive interface.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f0637e47-fe82-4760-b3a7-04fa51e85d26,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+1d8d98c0-db20-4ba2-bcd5-10201c884910,The platform needs to be adequate.,Transportation,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+6383f46f-b576-4cff-be0d-2798896e7d46,The software shall process requests regularly.,Banking,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+794753d3-bde1-4c91-8267-75778fb68447,The system should handle substantial data.,Banking,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+6ec4a645-59d0-4fff-a366-915eba7ac8b8,The service shall generate reports.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+88465c9f-de6d-4b8d-81ed-7df03163d6f9,The system shall process requests occasionally.,Banking,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+9b94ae1c-dd7f-48e8-91de-a41c8acde6d2,The system shall respond without delay.,Healthcare,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+8b9c9af0-bc14-476c-84db-d5a0e788477b,The system must support up to 20 concurrent users without performance degradation.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+99cf4fa0-8c61-4a5a-b280-cd4f8d7485ca,Users shall be able to reset their password via email within 21 minutes.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+c3203502-ca56-4de3-80f2-c38927a8c8b2,The application shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+28a21b61-998a-4c96-add5-970d0291372e,The platform must be highly scalable.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+921cacd7-0f98-4eac-a500-0c97e289b11c,The software must support multiple users.,Food Delivery,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+f9d66c87-bafa-4b22-b86d-46df01bbbf42,The service shall integrate with third-party services.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+229eef85-273b-46c5-8af7-a93439b4c577,The system must be safe.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+0356e311-fe8d-41bb-8194-f5c32b319fd8,The application shall process the payment transaction within 8 seconds.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+d75c035d-99f1-44f9-aef0-42ee50e9874d,The application should backup data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3e8b7d81-7236-403c-8f34-371954fd5aa2,The service should handle significant data.,Mobile Applications,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+99eead20-34cc-4214-a4eb-df80289577f1,The application should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+16f5a033-eeaa-4981-b7fb-73dd3a7733e7,The software should backup data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+faa3ac0f-18c6-4c0d-9b60-6fd360d4359a,The platform shall respond instantly.,Social Media,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+752faaaf-72e0-4f72-9669-33ba32809ad3,The service should be architecturally sound.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6c417c44-add4-4116-af2a-aa4e7977f7dc,The service shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+9681374f-fb9b-4e6f-b1e7-4fe282ac7af4,The software must support many users.,Healthcare,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+eecab196-d0b0-4835-9a5f-38067b58aae2,The module shall send notifications.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+b304572f-d145-401c-bbbd-aef950b09e26,The system shall be user-friendly.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+8dc6cccf-ed34-4905-b2b5-91b5d0de1cad,The service shall integrate with third-party services.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0d06627a-a090-40d0-a1f6-46ac0e2c1da1,The application should be easy to maintain.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4771959d-71d7-4f8b-ad91-2cc6866f5171,The application shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+ac819f59-4ace-4241-86a1-6adeb21e0470,The service shall process requests occasionally.,Mobile Applications,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+fcd9ba1d-e7cb-42b8-8a7e-23ec59e9996c,The service shall send notifications.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ddacc7bd-7f88-41b8-afc2-509559d6bcc7,The platform should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d53bf2a4-8bb0-4c91-adc6-a62974fa15e7,The platform should handle massive data.,IoT,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+498a1300-9cf9-4a29-863a-30f8cee62e63,The software shall integrate with third-party services.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+7532b1e5-e01a-4990-ac3e-e32fd0261db6,The module shall be highly user-friendly.,IoT,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+8a01310f-edb7-40ff-bc0d-4ac0926420a7,The platform needs to be adequate.,E-commerce,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+7b2e8812-aeee-485d-ba79-e20570697b4d,The platform should have an intuitive interface.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+71a1112e-985f-4049-8d53-bfde83e07121,The system shall respond fast.,Transportation,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+20e27c7a-b6e0-4415-839e-c8df0163ac6e,The service must validate user input.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+7a8c9f0e-9e7c-44ec-8635-40799e2869ac,The system shall be highly user-friendly.,Social Media,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+679891a2-caa2-4db6-8f91-a5a8935003fb,The software shall limit failed login attempts to 48 before locking the account for 48 minutes.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+85b5ec78-b045-49e5-b044-3f960237f87f,The platform needs to be adequate.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+f4f8e6dc-87b7-4627-ba66-a9ba3e909c44,The system shall encrypt all user passwords using SHA-256.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+b7708835-0f16-41e3-9bdb-d1faa54201f7,The service shall provide a seamless user experience.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+2b6d1088-f888-4766-bf8c-513c660005ca,The software must support several users.,IoT,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+2e979c5d-d2d9-4009-b935-a253e9b618e2,The platform shall encrypt all user passwords using SHA-256.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+6c665b54-5f60-4462-9ade-2a4e9f76d31d,The platform must support up to 43 concurrent users without performance degradation.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+3c67ebae-0be6-4e5e-8b5d-b2cbcf10ecea,The service must load the dashboard in under 56 seconds on a 4G network.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+d89903cd-c533-44cc-9785-b2b0d907abf6,The module shall respond without delay.,Social Media,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+b554d1fd-64f6-466f-9ad6-dc8a3bac72d7,The application should backup data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+039adf74-5542-4b96-81d3-438bf10ade14,The system shall be highly intuitive.,Transportation,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+73fb9bfa-9f5f-4d47-af57-f2c1a7a0887c,The service shall be user-friendly.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9d9b11f1-bc33-4c73-ba59-b3c941f822e6,The system should be architecturally sound.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+75a47309-fa9a-430f-aa4e-52a0275e9bad,The application must support a large number of users.,Mobile Applications,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+8ccc89c8-91ff-4483-9266-30b80d2117c5,Users shall be able to reset their password via email within 42 minutes.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+987e1c10-231e-49e0-8660-51c0f14aadb8,The platform shall limit failed login attempts to 45 before locking the account for 45 minutes.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+c33868eb-e4b3-4fff-959d-8493674684af,The software shall respond quickly.,Banking,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+76db9cfd-1a13-4d7c-97ea-879955e71b0a,The service should backup data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+bc67944f-488e-43e3-a149-ef2eb6943db3,The system must be robust and reliable.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+ad4654c1-e02d-4d9f-b72b-96efb21e94e4,The database shall automatically back up every 56 hours.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+51519a8c-d20e-48d5-969f-745e187fba15,The system should handle massive data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+2ba1882e-062a-40b9-a6e2-5a6d7a4eac33,The application must be unhackable.,Cloud Systems,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+e74b557f-115c-48cf-aa66-31666ac84ce4,The service must support several users.,Education,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+7b7e0893-fe65-4805-a347-c4ec8a8f4b49,The platform must be highly scalable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+209ae5d9-79ab-48c2-a966-9289c1ebd951,The system should have an intuitive interface.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+536d222c-c999-48ec-b1aa-64e2561d1781,The service shall provide a seamless user experience.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+afabeac6-e594-4c57-b2eb-628b2cd0af7a,The application shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+be8ee8b1-419e-4df9-943a-7a88f442d42a,The module shall process requests regularly.,Education,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+2cca87c4-a8f4-49e6-b269-b242542e53de,The service shall provide a seamless user experience.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5b15672f-4a3b-4750-b341-1e7d653393e1,The application must load the dashboard in under 55 seconds on a 4G network.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+c4fd6e89-c20d-4ae3-a797-cd927b7ad8c3,The module must support many users.,Banking,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+91d24db0-7776-4283-8914-8807960f6064,The software must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+bdf7f52a-26d0-4548-8200-af20d6e90556,The module shall provide a seamless user experience.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5de09611-b2d0-4851-a7e2-0ed766f58dd7,The system must support multiple users.,Banking,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+59646539-ca31-4e1f-8234-287812248ae7,Users shall be able to reset their password via email within 41 minutes.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+be891a87-3608-46e4-a5d7-fa1beb87ab56,Users can export data.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0d9f6005-b343-4853-8777-caaa0218fb85,The service shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+644e487b-90fe-43fa-8f0d-f8cb291137db,Users can export data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+69f9dc66-391f-4cc1-9aaf-8d79aafcbf86,The service shall limit failed login attempts to 47 before locking the account for 47 minutes.,Education,Clear,[],Complete,Testable,synthetic,1.0
+4acf8f7e-2f59-4a07-b5ae-80adc31f1865,The database shall automatically back up every 57 hours.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+48035308-dbb4-4608-b1bd-6626205478a5,The platform shall process the payment transaction within 21 seconds.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+0f649606-b502-4918-87d7-55d2b2efea39,The system must validate user input.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+7593a898-c419-415d-b993-a5de14b87f80,The platform shall process requests frequently.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+4e29f0d0-de07-4f83-9f5d-36a5e8ec326f,The service should be easy to maintain.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+90255db7-3cc8-4862-a513-ee16c3faf85b,The application needs to be sufficient.,Healthcare,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+9d3e3466-cdca-43a6-829c-9b9e543d118e,The module shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7b00b2f5-532c-492a-b36f-a971064c3cd4,The module shall be user-friendly.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+88b2a9d4-a405-4be9-9de5-d1c69812ffc1,The system should be easy to maintain.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+56508261-e26d-4281-9f15-9af709bb651d,The software shall process the payment transaction within 20 seconds.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+ea48f465-c462-469e-b22d-19a75f44650b,The application must be secure.,Transportation,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+96f17992-c453-40ca-86fd-f4daf4de85ac,The software shall be user-friendly.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+336f0ef9-3f3a-4edb-9bbd-695e59241214,The database shall automatically back up every 44 hours.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+bf0e0b89-89ca-46a3-b9c1-c55618811f4b,The platform shall generate reports.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+5ec821e5-d4c7-4dc3-9113-885830d5af84,The application should have an intuitive interface.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+8270a935-207a-420a-819e-792c0ee16ff9,Users can export data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+9b4db5e3-540d-4ef6-bf8d-ae23380b75af,The application must be safe.,Food Delivery,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+6ac60306-6fc4-40e5-a6bb-3d2768d38c99,The platform must validate user input.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+a60e2e28-f381-4808-b40f-0db826e4840d,The software needs to be adequate.,Cloud Systems,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+b1cbd96e-e260-403d-8502-0e652043fd93,The database shall automatically back up every 33 hours.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+05ceb4bc-6baa-463d-800e-d26226570546,The service shall generate reports.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+23fc460c-6ccb-4612-b851-17b0daaa9778,The service shall integrate with third-party services.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+8a807775-d263-4818-afdb-8278e778606c,The application must be highly scalable.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+61f5363b-fdbc-4be9-b04c-bc5be3b9a0ea,The module should handle large data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+e4ef0da2-282a-4b6c-b2eb-48974e9b17f7,The module shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d9878c32-509c-4eb4-9581-ab8c52d711a0,The software should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+07f0f5a5-7959-4855-918b-ac5be8ba025a,The application should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e4f4e260-9db8-4cd6-bf71-1c1cedddebd5,The software shall provide a seamless user experience.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7ac9b6f3-21e3-41a1-924e-25c92d5602a5,The application must load the dashboard in under 16 seconds on a 4G network.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+e9bdb177-42f8-43d6-99cb-ff708cfd093e,The application must validate user input.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+31f3a7e2-fa85-438b-a32c-ce37b962ba30,The system shall be highly effective.,Education,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+a26ab778-85e5-4675-82cc-3a059205e216,The platform should be architecturally sound.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0be91c80-e39a-4a7c-ad0a-b2705091155a,The service should handle huge data.,Mobile Applications,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+a8672888-bb6a-4ad5-aa3b-cc9af3a1b2ca,The module must support a large number of users.,E-commerce,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+c11ac0a9-415a-4348-a58e-ab5b245faaee,The module must validate user input.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+b70306a6-6605-4bab-bcb9-f64099c54677,The module must be protected.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+8a19ad1a-c813-4d0c-bb89-ac9d626172ae,The module shall process the payment transaction within 28 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+ed355beb-07b5-4d06-8758-de35b33c18fa,The software must validate user input.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+e0c37938-50c5-405b-a171-a485a11601ec,The platform must support up to 2 concurrent users without performance degradation.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+89e64d40-9a72-4486-82b8-eb4f1e6ba726,The application should be architecturally sound.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9b927eea-0fad-475d-a429-b076f2507433,The platform shall respond without delay.,Healthcare,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+66bf1512-9576-44f7-aa26-0c600289e8a6,The platform shall generate reports.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0f91a384-b851-4abb-8c96-d3293cfa73a5,Users can export data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d7bef8cd-6305-491c-80a6-e75c83a071fa,The service must support up to 42 concurrent users without performance degradation.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+fa778156-27b2-4a61-97cd-36b1fad1152e,The platform shall integrate with third-party services.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+72790c31-1831-4b2c-a20b-82ee8b49671e,The system must be robust and reliable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+fe44c4de-be53-4e71-94e4-a552210c358c,The platform shall process requests periodically.,Healthcare,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+1a68eb75-d7a8-45d6-8045-5d6d9292e54b,The system must load the dashboard in under 13 seconds on a 4G network.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+3e508625-c44e-4db7-b1f2-840feb37ae71,The software should have an intuitive interface.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5f9bf5d4-9e2a-4343-b7e1-00c294b960a0,The software must be unhackable.,Education,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+38156e28-53ab-4185-be85-3b0417e9d9cf,The system should have an intuitive interface.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+42f8bbd4-e7d2-4811-bc54-28ea56e2eb32,The module should be architecturally sound.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1396f0d4-3425-4f3a-881f-71fb675f9ebe,The platform needs to be good.,Banking,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+8f34f6a9-6571-493a-a4cc-0207936af2be,The module shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+2d563029-921f-4b60-aca2-cd0d4fc9abac,The software must validate user input.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+20823181-f383-40a1-ad1d-181fc8eacce3,The platform should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+933fc45f-760a-499a-903a-ac61cab2240e,The platform shall be highly efficient.,Transportation,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+ace3bca4-636b-4ebb-af9a-7641ceed3be2,The service must be robust and reliable.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+929aeca4-cd19-4fe3-9961-f48b58d55249,The service shall process requests frequently.,Transportation,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+bc0f7a25-042b-4e27-b13b-acc13142a8cd,The application should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6d9143a7-75aa-4ba7-8c03-a77a95ec43f7,The module shall send notifications.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+aecc25c8-d9e1-45d0-b46c-2169a780e6f5,The application shall integrate with third-party services.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e983e07e-4271-4de7-8d9d-c298fdc23a1b,The database shall automatically back up every 51 hours.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+48f3b2cc-2e81-4bf8-ad27-572df9f49cf8,The software shall respond instantly.,Cloud Systems,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+2ea93cd1-f630-44fd-9543-ba9ef734ed36,The system shall process the payment transaction within 48 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+06b55da1-f6b6-4f6b-8f2f-e159dbb6c61e,Users can export data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+5f69cf40-a8dd-4fff-8bf3-f2b7ca7a3d14,The service must support up to 10 concurrent users without performance degradation.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+c26232da-93f0-4dce-88b7-14a407f32f43,The module should be architecturally sound.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9e486a10-a5ac-49f2-9630-97394fdd24d7,Users shall be able to reset their password via email within 17 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+7032fdef-dd92-4bae-b642-88be3086c95a,The system shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+95af8345-7291-45ef-bb2f-4bfc76ec2386,The platform shall be user-friendly.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+981e82a4-1450-4dad-893b-93bd0308f2d0,The module shall respond quickly.,Transportation,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+ccc36d72-2b9c-46f8-8351-153b733cd463,The database shall automatically back up every 5 hours.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+512fe71f-5c1c-4df8-b705-0f642abbdf36,The service shall integrate with third-party services.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+873ed1bb-d136-471b-9558-1e00f3d296f9,The platform shall integrate with third-party services.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+16b0b20b-b7d4-4fd3-8a44-e88f97a61685,The service should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+4f8f7790-8cf7-412e-8356-c2a2ec52b89b,The system shall be highly effective.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+5c6729e5-0f74-4aba-8aa2-257a72a0f9a4,Users can export data.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a5903f0e-ea92-4e0c-ad86-c456b6c05332,The system must support up to 51 concurrent users without performance degradation.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+4031924a-0e0e-45e7-9788-25b56eaeeb9c,The platform shall send notifications.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ed5db4e6-32ac-4e76-85b7-3ce9d8cb578a,The system shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+39383277-f850-4e3e-9580-1b4bf95710b9,The system must validate user input.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+942ce26c-332d-4052-9b44-bee2eb01f060,The software shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+fba61fac-75e1-4e69-988e-2e713a7d2e23,The platform should handle large data.,Banking,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+56295790-87f1-4a8c-b994-f8e30182a404,The platform must be robust and reliable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d416eb86-aec1-4f89-ac85-1100100a737b,The module must support up to 16 concurrent users without performance degradation.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+bcdad7c0-6c2b-4475-a854-c3821e3c54b8,The service shall be highly effective.,Mobile Applications,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+ab372b7e-b86c-4f34-8173-9835717b1e9c,Users shall be able to reset their password via email within 23 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+911f4379-b4c4-4818-8ae1-fc5593a50da9,The service shall limit failed login attempts to 58 before locking the account for 58 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+52b4041a-28de-404a-ad97-3df08b99a5d6,The database shall automatically back up every 42 hours.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+49753a32-0f16-4d16-be48-0ce0aefcb3bd,Users shall be able to reset their password via email within 49 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+8a828d80-ec23-459e-a86b-ccfe018e2fae,The software must be highly scalable.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+cbda6f89-41f9-463d-8d18-be296eabb2f0,The application shall encrypt all user passwords using SHA-256.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+a4e243cb-3b14-4f1b-9937-7a102dcef189,The application should backup data.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c026cc6c-ec2b-46a9-aef1-a82b590f2bc7,The platform shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+a0f765a7-74e1-4fea-b07d-ab48d8f7cae3,The service needs to be appropriate.,Food Delivery,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+05d5b264-4593-4884-9600-dfbbcdaeaafe,The module must validate user input.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+c0c4241e-0443-4024-a6de-cf40702786c3,The service should backup data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+7fdfa73d-25d2-402a-bf3b-ea0bf9b15588,The platform should handle large data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+e262277e-b96e-4622-b814-78fbaa13b767,The software should be architecturally sound.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+203cf253-67ac-4adb-b4e2-edfa7069b0ff,The application should handle substantial data.,Cloud Systems,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+b5c6db9a-2cb4-4da8-997b-8549611b15a9,The service shall be user-friendly.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+19e2a33c-8980-437a-a2a1-dcac13cd12d0,The platform should be architecturally sound.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7c332a00-0ce2-4eda-adf0-de0ed2ec2147,The system must validate user input.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+32d68771-61df-41e5-9ccc-b920df12e84d,The service shall respond fast.,Healthcare,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+3d512552-e458-4f2f-81ad-47ecf85ff500,The database shall automatically back up every 44 hours.,Education,Clear,[],Complete,Testable,synthetic,1.0
+1a1aa7e7-ae38-4648-a9c5-823b54d8f1b4,The software must load the dashboard in under 53 seconds on a 4G network.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+2ee111eb-234a-41bf-818f-a1f751dd84d4,The platform shall send notifications.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ecb4a11f-449e-45ec-a7a6-bc37719fe41c,The system should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6d0a575e-c73c-4537-98ba-945e1a2329c7,The service shall encrypt all user passwords using SHA-256.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+33506c24-d10d-4625-858a-a70e6c50b15b,The platform shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+6b741355-076e-4f9e-9c72-c4aa3c885899,The application shall process requests periodically.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+f15503e8-6675-48a3-a32d-5e116c3424f3,The system shall encrypt all user passwords using SHA-256.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+402665a4-b804-4805-a8c1-ac10ab39cea7,The service shall process the payment transaction within 10 seconds.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+f636a211-4cd7-4d48-8ad9-c01f229fa3c0,The system needs to be sufficient.,Banking,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+b39527fe-4afc-4617-af26-67f4999728cd,The software shall send notifications.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ffbc1c70-1c53-4bf8-9e64-3b2f0dffe1ed,The software must support up to 44 concurrent users without performance degradation.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+578fb597-ac4c-4d9a-a44d-ae6fb6446551,The software shall process the payment transaction within 48 seconds.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+8a7cd668-d01f-4962-b009-f4630980c4b7,The platform must be robust and reliable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+290e42ae-b63a-45ef-88f4-7cafa5c957bb,Users can export data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+1e0267fc-82a4-4218-bc4f-e0f1a3a67e01,The application should have an intuitive interface.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5e3bea08-24c5-4bed-a715-585fb03d5572,The application shall be highly beautiful.,Transportation,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+06d0dbea-963f-4f47-8f96-12dafd88d9bd,The platform shall generate reports.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+786c2de3-0c1f-4853-8249-566c945011c6,The module shall provide a seamless user experience.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5b594737-9b2e-445e-93f0-5080b9b3a68c,The system shall process requests occasionally.,Education,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+5e390aab-2f14-454c-aef3-8c58354a28bf,The software should have an intuitive interface.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0a316d20-17dc-4c64-ac1d-bcbf35ae7581,The software shall provide a seamless user experience.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+ab09d42d-25a4-4340-903c-27cb072f479c,Users shall be able to reset their password via email within 20 minutes.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+3ba81365-0018-42b4-b7f8-6d4687dc87a1,The platform must support up to 14 concurrent users without performance degradation.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+4ebd3b35-98ae-4e0e-8822-b1226c1df28d,The module must validate user input.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+32307671-cd93-40e1-9793-34c7c54716c2,The platform must support up to 52 concurrent users without performance degradation.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+1cad5949-565f-40fc-905a-f1f109f8eeff,The software must be robust and reliable.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c881f820-127f-426b-9ff7-cec317fabd75,Users shall be able to reset their password via email within 34 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+3f73d0be-bc7d-4763-bb1d-f885fbb04e8a,The application should be architecturally sound.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+92c422d0-382a-445b-ae59-b60da9c72034,The system shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a00e6bac-a39a-451c-959d-ade24bf86a29,The module must load the dashboard in under 28 seconds on a 4G network.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+bbe970cc-b166-4d59-90ac-2dac9e16c758,The system shall encrypt all user passwords using SHA-256.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+cb7a0d6a-5623-4b68-be23-69b0f53c3c9b,The module must support a large number of users.,IoT,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+d9b4b83c-09cd-419e-8ced-b016241a33a6,The system needs to be good.,Food Delivery,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+6cbd60ed-8dc6-4df7-800b-5b17db469b06,The database shall automatically back up every 6 hours.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+437808e0-e0f5-4b15-89fd-ccc8ad5b36dc,The software must load the dashboard in under 55 seconds on a 4G network.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+86166bf4-457d-4ffd-b2d2-67868a767fd6,The software must be unhackable.,E-commerce,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+8068deef-1064-44f0-9183-48a72d241821,The service shall respond fast.,E-commerce,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+94896526-4776-4898-a5d7-f31fff9d7f19,The system must support up to 45 concurrent users without performance degradation.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+b7e3e42b-c8b6-4c72-b81b-f6bc66055e44,The application needs to be good.,Transportation,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+c30b4997-6296-483e-a4a0-d13fa3833d79,The software should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+7f7cda16-4246-4d9c-8bbe-b0a402256cf7,The application shall respond fast.,E-commerce,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+9cc2b00a-9a2b-4efa-b79c-76d5fbb50e62,The system should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+583b7a36-01a7-40a9-ab57-f2f947bf953a,The module must be unhackable.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+7236bd08-9439-43a6-a750-839b729c9b7b,The system shall generate reports.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d02e3330-98bb-43a8-a771-37a8ee8118f5,The software shall process requests occasionally.,Healthcare,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+bdab12d4-af47-4d86-ac40-bb663ed3a82e,The system shall send notifications.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+b2364475-7e3f-4c60-bc91-0560679a5af8,The system should handle large data.,E-commerce,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+e59b7c35-2a6c-49dc-97e5-359f63cd50c4,The platform must load the dashboard in under 9 seconds on a 4G network.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+d0990750-33a8-429b-9994-2ac862bf40d7,The platform shall generate reports.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+9340abfe-d635-4dff-8cf9-757b6a51342c,The software shall process the payment transaction within 46 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+c56e1061-0e62-4a96-bc75-a10863c99728,The software must be robust and reliable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+582b193a-12e8-4b05-baf6-66bb1999e931,The system shall limit failed login attempts to 35 before locking the account for 35 minutes.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+8a23321e-f72a-4464-b7d2-fca5e9c7f729,The software shall limit failed login attempts to 37 before locking the account for 37 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+949c5d3c-885b-46d8-a998-b34465466f05,The software shall send notifications.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+c5fc6e79-e82a-46ea-9227-bc64de7a1df9,The system must validate user input.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+431a3560-8e25-4bf7-82a2-e59dabdb1142,The application must be secure.,IoT,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+0c047512-bab6-4689-aa81-001d564f09d3,The service needs to be good.,Education,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+53cdf256-efc2-43bf-bcca-d82afedc79df,The system shall encrypt all user passwords using SHA-256.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+e171622f-e727-4639-87a0-7647d26387ea,Users shall be able to reset their password via email within 42 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+a66336ad-dae8-4b10-b210-e782df107dc3,The platform shall limit failed login attempts to 26 before locking the account for 26 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+397dc7eb-3ee3-4f40-bfd5-4c6db626fb1f,The software shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+c7bf654c-b903-4d80-be5d-4a2bf30938d1,The software should handle substantial data.,Cloud Systems,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+fce62729-07f2-44f3-97bf-976dc78a0a85,The platform should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0a13e9ec-5d1f-4351-85a1-53b6a1ef9db4,The platform shall process requests soon.,Food Delivery,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+f61fb837-0173-48e1-8b38-09e3802c4d81,The module shall respond without delay.,Education,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+56f675c8-8b75-4454-a746-c73459694203,The service must load the dashboard in under 54 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+bc92a98f-ae0e-4c89-95ec-34048a33936a,The software should be easy to maintain.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+465beed7-afeb-4d82-baa7-43ec08b75ce2,The module should be easy to maintain.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+42338471-0842-4556-aaf5-92713ddc4712,The module should have an intuitive interface.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+48660382-214d-470b-8a89-5225a2bf6f04,The application should backup data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a121d9fd-eae0-43af-9893-36113fcf1ddb,The platform shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+15a70490-91d2-4259-84e0-377adb21144d,The platform shall generate reports.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+af321a09-49a9-41b5-9940-854c49161d84,The platform should backup data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+863a1a2d-2eab-44dc-959e-9a32d0c938c5,The module should be easy to maintain.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+197c7051-b97b-4b5d-bb09-eb21a0053a93,The module should be architecturally sound.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+20fc2b6f-55da-4118-9c94-501971a319c2,The software must load the dashboard in under 55 seconds on a 4G network.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+4b6c5b4d-51e8-4344-87a3-42df3d2fe1a3,The platform must support up to 31 concurrent users without performance degradation.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+fd682315-8025-403f-8a4b-486403735715,The system shall be highly beautiful.,Banking,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+b39146d9-7db4-4278-8b6b-1953cd671157,The database shall automatically back up every 48 hours.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+73c87890-642b-409e-8fc7-d788efe1c45c,The software must be secure.,IoT,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+3df3e656-15fc-441d-8267-fa2ded88f8d1,The application should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d4a5d731-bc54-469c-b0be-c4d4d4a23167,The software shall integrate with third-party services.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3ba1e39e-408f-48a3-8beb-29f7debc9a33,Users shall be able to reset their password via email within 50 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+91ed5e8f-cdb7-48c0-ac02-9115ae4d9045,The platform shall send notifications.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+44ed4816-c9ca-4385-821b-bf81c07a1e74,The application should be easy to maintain.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f1c92303-57ec-4c3a-96d5-ac6c339cd090,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+170ed0ad-2b83-41dc-80d9-b398bcf52876,The application should be architecturally sound.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+8adc53d4-e5d5-4811-8dd7-95f8291ae658,The module must be robust and reliable.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e5144abe-eb43-4ce4-aa98-48db7bbe2066,The system shall limit failed login attempts to 41 before locking the account for 41 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+dfa6b409-41f2-41a9-9c46-a623021bbcce,The application shall respond fast.,Transportation,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+b3ea25cf-1162-4fb8-84ab-1a7fe80af8e3,The system should have an intuitive interface.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f0ba9391-3e59-4463-a2f4-cc12cdc4cee7,The module shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+2b14d04a-2c70-423f-9f3a-8d711f8f3c05,The application shall be highly user-friendly.,IoT,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+1a22bb22-7fc5-4cc3-a9b4-a034df0f8e98,The service shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2e396773-94d9-465e-9417-20e4d957faa2,The software shall process the payment transaction within 30 seconds.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+4ba2fa60-130f-4245-8b4d-a751e49105ab,The service needs to be sufficient.,Mobile Applications,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+ac7e1049-84fd-48be-8a32-c3331568d5ad,The system must load the dashboard in under 48 seconds on a 4G network.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+da0ac8eb-3798-4d22-9186-c75cca6dea5d,The software should backup data.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+04b7fc49-86ae-4799-a0aa-1df52b0bdf5e,The system must support up to 27 concurrent users without performance degradation.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+fbe96be7-a6d3-421d-bc98-b76f0fbe4ec8,Users can export data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+49c36305-1180-4558-8d68-6fd580af839b,The database shall automatically back up every 29 hours.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+13d8f6a1-37d0-4a1a-b94c-eb307a9f01da,The module shall integrate with third-party services.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+42b4fee9-2b3d-48dd-99ac-a64d68f05053,Users shall be able to reset their password via email within 12 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+6865d342-5e97-4c12-9ea0-90589f4d796a,The module should handle huge data.,Education,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+40df5d01-16c4-4a1b-aa8c-60e0e639f077,The service should have an intuitive interface.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+408dcae8-2e9a-4a88-ad02-e944854f885c,The software should be easy to maintain.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+206da2ab-1cfc-4af7-9d3c-01c2b82774c7,The module shall process the payment transaction within 27 seconds.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+6c92f6f2-e491-410f-a1b8-0b3fdb04d7d9,The platform must validate user input.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+44d8ee31-ff03-4afe-88f0-31cb68f24360,The application must be protected.,E-commerce,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+5ab31e58-af72-42c4-a2d0-a235ed77ac6e,The software must support numerous users.,Transportation,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+5f8fafd4-7b85-4fe5-bfc2-66fa2f5c9966,The service must validate user input.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+8862bf70-24b2-42ea-a4e4-ebbff9007c60,The service shall be highly user-friendly.,Social Media,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+1c1e95e8-0294-4cac-8b97-1b4609f07951,The platform must load the dashboard in under 40 seconds on a 4G network.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+1bc576b4-a24f-4d9e-8c2a-baa91ac7e942,The system must be safe.,Food Delivery,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+efeb0c90-77b2-4e96-8746-252faf1e1f03,The application should handle significant data.,Mobile Applications,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+c4546379-80bf-4c56-b83c-07d434b6f2d9,The application shall respond quickly.,Transportation,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+1baa8356-1c69-4c70-a0a8-497a73b77f8d,The module shall respond rapidly.,Social Media,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+2735c190-dd67-4f32-900c-a64bf656a2ec,The platform shall process requests periodically.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+a6854e37-529d-411d-8f4e-7137f8035dd4,The software must be robust and reliable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d4acd6c1-3268-487b-a69e-4ba4085116b8,The database shall automatically back up every 34 hours.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+114f216e-b706-4090-b023-0f483125cd1e,The software shall integrate with third-party services.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+203d0ef5-a50d-40fb-bc43-b1ad8ae1326e,The application should handle large data.,Education,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+2670c208-d3cc-4dfc-aea6-02b1d10542d0,The service shall be highly effective.,IoT,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+2e973489-307a-4196-899c-db5cafdca0e8,The software shall provide a seamless user experience.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+54a79336-388a-4085-a103-23df968b0fca,The system shall limit failed login attempts to 29 before locking the account for 29 minutes.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+cb5e9e62-097a-4320-8fd9-5570273a2920,Users can export data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+b0239c74-633b-4405-ae19-8d3611b4d957,The system shall process requests periodically.,Education,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+0a4060bd-abe0-4698-ab67-acf141d344e0,Users can export data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+b90cf723-00d5-4490-b0a9-9aab1af5f145,The module shall respond without delay.,Transportation,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+48a04d1d-9c45-42e4-85ba-d81e68f612bc,The application should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+8d38c46a-d0ba-45fe-90d2-376c8e0a0e66,Users shall be able to reset their password via email within 21 minutes.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+28bedf65-5808-40a8-9a58-a7e2ab397708,The system shall generate reports.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+17f64da1-7940-45aa-b7b0-d7f5e141b512,The platform must be secure.,Education,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+6679b7c9-17d2-4033-a0bf-cd8c7f7907b3,The platform must support numerous users.,Banking,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+92ea3a8e-3ca8-4b75-9c0e-256860b21805,The application shall process requests regularly.,Social Media,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+ebe0379f-5690-4d84-9379-c0f2c3f28069,The application shall be highly user-friendly.,Healthcare,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+617cc3df-36d7-4d7e-9642-b1545e528078,The application shall limit failed login attempts to 56 before locking the account for 56 minutes.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+805fa5c9-16c7-455f-92f8-27d49908bcce,The software shall send notifications.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+100ff919-caed-4610-979f-0d1566cf7bad,The application must be protected.,Education,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+56e47a6d-4ccf-4ad3-8ffa-0b0a380ef617,The platform shall process the payment transaction within 17 seconds.,Education,Clear,[],Complete,Testable,synthetic,1.0
+6f770cd5-c54d-4056-aaad-53ae485e527d,The service shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+13c0c2ec-2c0d-4380-80a2-1c5b1100f74e,The module needs to be appropriate.,Education,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+f426bdcc-d5c9-4c1f-aae3-95d651723c73,The platform shall process requests soon.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+f0867f44-20bc-49c2-a24d-c47352e6d22e,The module needs to be better.,Mobile Applications,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+dd52b07a-5c5c-4195-83bc-301ee882e14b,The software needs to be appropriate.,Food Delivery,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+84715583-adfa-4ebe-8073-b54a18d290dc,The module should be easy to maintain.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6825029e-7726-4d22-832e-fcdd7df7c4d5,The service must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+5e16ac67-7710-4afc-9c36-0edb604230c8,The software should have an intuitive interface.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+04218998-db61-43f6-9e4c-acf55714e118,The module must load the dashboard in under 24 seconds on a 4G network.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+6e150b38-39ed-4a51-9c66-0d8a95cd9694,The service must support several users.,Mobile Applications,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+1c212ab6-e980-4998-aa5c-6524e6fdc1fc,The software shall provide a seamless user experience.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+71f5032b-fa49-40cd-b37a-e40e5a82e409,Users can export data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c5bd9129-45cb-4e68-a7d6-f475f5f9216f,The software must be safe.,E-commerce,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+6476ad13-d14a-4bbd-ad69-edd117f74aa8,The software must be robust and reliable.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+53d004a4-20b6-49fa-acd1-d03780752bf4,The system must support multiple users.,Mobile Applications,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+a09901a6-f525-4918-a8e9-980fc2a0ebc0,The database shall automatically back up every 36 hours.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+4578756a-1bed-48ef-a66e-741d5497947d,The application shall be highly efficient.,Transportation,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+6ddc5d10-5808-4856-b883-15d5e1bfcb73,The application shall limit failed login attempts to 33 before locking the account for 33 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+b4a18256-0e27-4ef8-891e-f467e42777ed,The platform shall encrypt all user passwords using SHA-256.,Education,Clear,[],Complete,Testable,synthetic,1.0
+e66f3701-3c22-4332-a1e3-99818e258c09,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+bf6b102f-b03f-469a-b9d4-ebb4254976a0,The module must validate user input.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ae9ae5fb-1e8e-4305-96b2-5025a73c26df,The application must support up to 55 concurrent users without performance degradation.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+b375f5d8-c2f9-4522-b54d-f4e03f3118d3,The software shall process the payment transaction within 55 seconds.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+b2459f4a-427d-40e6-a265-23d60c451aea,The module shall generate reports.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+24edc90f-a6e8-4dc9-9cb6-8081ef3f1c58,The software shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+db1448fa-2f01-4998-a59f-a16aeca18183,The software shall encrypt all user passwords using SHA-256.,Education,Clear,[],Complete,Testable,synthetic,1.0
+4a74f402-86bc-4858-9e29-e1003705dca4,The system must be safe.,Transportation,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+5422b873-3a49-4edd-954a-8df836af072e,The module should have an intuitive interface.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+79342bd5-ec21-467e-a211-e1fcd403c942,The application must be highly scalable.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+2c90140d-ef59-4295-9471-b89cfb7f3655,The module needs to be sufficient.,Transportation,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+ffc90c39-7d93-4206-9d1a-45bdf2a7ca59,The system shall encrypt all user passwords using SHA-256.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+76f7334a-d532-4b09-b97a-7dcb3f85ca7d,The database shall automatically back up every 47 hours.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+c472b008-8f24-4f74-b800-b0f56b1ad850,The platform should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d54eb635-60c9-4316-ae29-178ae6de881e,Users shall be able to reset their password via email within 38 minutes.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+eee15dae-c0a6-4649-8591-cf12f20b4c10,The system shall provide a seamless user experience.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4c0ae162-dbca-479c-9197-e40f8fc5f102,The application should handle massive data.,Banking,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+f4df5b35-b89e-4be6-97c8-d820c727dbd8,The system shall send notifications.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+a23f6f75-27e2-417d-b32e-86cd230872fb,The software shall be user-friendly.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+92e9d241-8c49-4e23-9f73-ae042c800feb,The service shall provide a seamless user experience.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+fb47ddff-9fda-4c9d-9ae8-bf93ef657bf7,The module shall encrypt all user passwords using SHA-256.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+cf202d2a-04aa-40dd-9a6f-300010994217,The module shall integrate with third-party services.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+70fda941-8aaa-48c1-9cde-18494128795f,The service shall integrate with third-party services.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c8f4b55f-eb91-412a-806b-3ba7cdc51ee7,The module must be highly scalable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b66f3002-8370-46dd-98ee-06229ad65673,The module should be architecturally sound.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a2f83586-8ace-4845-bf16-c82dd1f72118,The system shall send notifications.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+d92244de-c24d-4095-b0dd-5fd616ddc0d1,The platform shall limit failed login attempts to 43 before locking the account for 43 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+07bf6b99-5367-4dd0-b8dd-f7acfe73d038,The software shall integrate with third-party services.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2f243231-7f45-4a7d-9d9e-2bfd9b9d440e,The service shall process requests regularly.,Social Media,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+661d57c6-1040-4c27-9e8a-7d774195cf17,The module shall limit failed login attempts to 45 before locking the account for 45 minutes.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+baf2554a-2c01-41e6-ac58-afa1674a3eb8,The software shall be user-friendly.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+48fcaeaa-9ffd-4816-b0b6-39a01692fa2a,The platform should be easy to maintain.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1b7680b6-b18d-40fc-b119-f44e315dcbb1,The system shall be highly user-friendly.,Healthcare,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+3ff26c10-3ba1-4043-86e5-e08e8102f8ec,The software shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9d131bba-bcd6-4454-8baf-3dae83528b88,The system shall integrate with third-party services.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0bf559bf-fefa-4bc2-a32e-f000766fe6a3,The software shall respond rapidly.,Mobile Applications,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+59b3e89b-c692-4d54-a039-173cd5d3ed4a,Users can export data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+bd9f2084-9105-44c4-b76a-0c68b0649d8d,The software shall process the payment transaction within 15 seconds.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+98f15476-a53a-412a-8429-c664cdb487a8,The platform shall send notifications.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+bfc04d97-5cf7-4353-98ee-e3f37b8ce976,Users shall be able to reset their password via email within 13 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+7167fb41-a328-45df-a5f3-c45e5df6afcf,The system shall encrypt all user passwords using SHA-256.,Education,Clear,[],Complete,Testable,synthetic,1.0
+c6fb65c9-5748-4b60-b14c-0a4143beebd7,The platform shall integrate with third-party services.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+bf66400c-fafc-4cd3-913e-c3d5e3ce001c,The service must support several users.,Education,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+0f3e7e3c-1f6c-4538-ab60-5db97016815d,The software should be architecturally sound.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e2fbbe04-3a99-4a76-bafb-42757101c2a4,The system shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a0073adf-3c95-46cc-a934-e0d75a979a38,The service shall integrate with third-party services.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3c9ef92a-c949-410a-819b-9430ad67b227,The service must load the dashboard in under 34 seconds on a 4G network.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+beb1504d-d49c-4e8c-9ce6-a99523d2f023,The platform shall be user-friendly.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7e3f6acc-33b1-42a9-aead-6c49c9b81bbb,Users shall be able to reset their password via email within 5 minutes.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+f0b561b3-1b16-4069-91bb-afbcd03d1884,The platform shall be user-friendly.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+190764c8-2eba-4053-aaaa-bd0dcd2095ee,The system should handle substantial data.,Education,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+e0990cf1-692e-4fd2-a970-05400c14c2de,The platform should be easy to maintain.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9e4c9818-30c4-4c3d-b9cf-904760c37686,Users shall be able to reset their password via email within 46 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+66f807b0-9b3a-43f9-a083-40aadbeeeb64,The application shall be highly user-friendly.,Social Media,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+48b51ee7-ee65-4595-b7f8-e813d951b649,The platform must be robust and reliable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+add72bb2-ac29-427e-83d1-15eaee184172,The software shall generate reports.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+9d31b8d4-a194-49c1-9ea1-f20258aed8f4,The application shall process the payment transaction within 36 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+6f76fd55-4b00-4c6a-875c-6abaef9f6aa4,The software shall respond rapidly.,Mobile Applications,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+1e4139ac-a97e-45a0-adfd-7d120ebbcdfc,The system must be secure.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+24282926-b8d8-4eaa-9ad1-cc0bbd341f83,The application must be unhackable.,Food Delivery,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+7b488555-3532-4865-b700-d962b66f9f4c,The system must be highly scalable.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+03e9e886-70fd-4785-b5e8-cf58713f21c0,The application must support up to 14 concurrent users without performance degradation.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+7bcdbf7d-2f7f-469b-a1cc-928e04f83a57,The system should handle massive data.,Cloud Systems,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+698a882b-42e0-4787-92dd-526d7e66ccf6,The service shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+955407a0-c59b-41b3-90b4-1f1854972ec1,The application shall send notifications.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+81b73842-bd50-438d-8b39-6f194f422636,The software must support many users.,Transportation,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+88c59214-5775-4d42-80cd-f3c078250a9f,The module shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d6c6bafa-a023-470e-807e-65367e7dff40,The application should be easy to maintain.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b9208983-d996-4207-9d01-2467a0f7ba91,The software shall generate reports.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+4ac1ddd7-e987-4fd3-80f2-8cdf3cdd89fc,The software shall encrypt all user passwords using SHA-256.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+60820126-c141-4f64-a716-ad7f85f3d185,The system should be easy to maintain.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4f8e06d7-8dfb-4fb7-b20d-371e2f04bc32,The module should be easy to maintain.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+ad2dc9c4-a5d9-4add-a465-45966457ded5,The system should have an intuitive interface.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+09ad8d06-b1f0-46ab-bbdc-922a92d4780a,The system shall process the payment transaction within 10 seconds.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+0c7c3470-d2c4-405b-bee8-6ba3728f99ac,The application shall respond fast.,Education,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+888d47f1-f106-4e46-980c-bdaf04532003,The software shall send notifications.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+7e03b277-7a65-412e-b996-b09df15697ef,The system needs to be better.,Social Media,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+7f785cd7-a522-4795-b60c-e6915a3209e4,The system must support up to 5 concurrent users without performance degradation.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+264d422c-e561-4570-91d4-286de565cd56,The application shall generate reports.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+0e22b827-4411-4482-8eda-74d11684c4b0,The service must validate user input.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+8dd3086d-6e17-4f85-bdb0-e41a0a4653d5,The software must be protected.,Food Delivery,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+805bc272-06b0-45b9-a9ca-ff307c258622,The platform must be robust and reliable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+41cfffa8-e96b-42ab-85a4-99ae63b7fdb9,The software shall generate reports.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+9476f8f4-576c-41f1-b534-194e735be883,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e90daeb1-d30f-46b7-b8b9-de482c5e1580,The application shall provide a seamless user experience.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+26b27df2-1fef-49f0-a01e-f7ae70b9352a,The service shall respond without delay.,Mobile Applications,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+47e63450-7de6-4fe2-937f-6ef19444922b,The system must load the dashboard in under 46 seconds on a 4G network.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+f94d5120-fe63-4f07-a617-7a84da025d50,The platform shall provide a seamless user experience.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e2a97198-542d-4c0c-afb8-12709c76b3b8,The module should handle significant data.,IoT,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+18b0accb-d3ca-4236-ab28-1cc0d923a166,The system shall integrate with third-party services.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+b9faf2b8-78af-420c-b963-2e23f2f3f464,The service shall encrypt all user passwords using SHA-256.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+c61265dd-df45-46d5-9924-1e1a6f295d00,The module should be architecturally sound.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+75c11814-3564-435c-801a-5152fa4fcb26,The module shall be highly efficient.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+2339bd0e-2a8f-4fa4-b4c3-96c6ddbe199a,The application shall limit failed login attempts to 38 before locking the account for 38 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+9ce72e84-c709-4f61-ae8e-4e0e3f7a59bc,The system must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+81202885-dd06-4e3a-9221-24c8b3c9f68b,The software must be robust and reliable.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c290fe72-9f36-4754-8418-f6ba9faaff00,The system needs to be appropriate.,Education,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+fc818b6b-5e82-4833-a1a1-68bf97c7e253,The application must load the dashboard in under 40 seconds on a 4G network.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+671aa9d5-5948-413a-888d-40d0ddbaccae,The module should be easy to maintain.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b6208cc3-64cd-48f9-8706-ea97ba037f2a,The software shall send notifications.,Education,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+495a9733-7c9d-4a29-a21f-c5df5cbce554,The service shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+57a9ebbc-3460-4de7-8533-655e66f3db8b,The platform shall generate reports.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+5b0c5a8e-91e5-460a-b834-5a80ea176902,The software should have an intuitive interface.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+50d0378e-b462-4ae7-9040-a4bcd4bc4c64,The application should backup data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+89cbd05a-4edd-4657-9079-a65090724afc,The application shall be highly intuitive.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+d457fb39-6147-4d8a-b154-6166fe9f669b,The module must be robust and reliable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f31fff18-a8e1-4545-a83e-6fc3e347c0f1,The software must be protected.,Social Media,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+a2c5b0a2-d781-471e-9504-424315e90c5b,The software must be highly scalable.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1523425c-a81c-4ea6-8175-9c8e7c374400,The system shall integrate with third-party services.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+66e9348b-cfcf-40fb-a0dd-13fd00788a55,The module shall provide a seamless user experience.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f0e164be-3fd4-40f7-a36e-94f20daf57b0,The module must be protected.,Transportation,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+1e91cf60-5b10-4cb5-bc36-4c515f8a22de,The software shall encrypt all user passwords using SHA-256.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+a3579122-b505-43fe-bf82-f5e1ff27b7ad,The service must validate user input.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+3c3e0cc4-d2f9-4523-8c15-2808a6de5aa0,The software must be highly scalable.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0ad6a45b-0a74-4781-a834-81f8bf53f629,The module must support up to 17 concurrent users without performance degradation.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+c5d18ac3-e6e0-4a7a-bb18-26b03ae3aeb1,The system must validate user input.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+d8643d27-5ff8-4031-9183-16899160cf53,The system must load the dashboard in under 3 seconds on a 4G network.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+a455b657-c017-48fa-aa3a-c9348ab29dc4,The application shall process requests soon.,Banking,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+006b65a1-05fc-4b7c-adf1-183d33922e1e,The software shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f01e8f48-ca72-4377-9ee1-cae333321896,The system shall process the payment transaction within 57 seconds.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+a31e2586-4ad4-4134-a770-0a0b56fa53c9,The software should be architecturally sound.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+093b1456-fa43-41a0-b2be-b30688996da0,The module shall process requests frequently.,Food Delivery,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+78fd35c4-4292-4454-925a-a3852dba7d3e,The service must be robust and reliable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+83ed58e6-5e47-4272-9bb4-c46b9d9fb806,The application shall process requests soon.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+922db3a4-ce13-4ad0-8fb5-31ccda05734b,The software shall limit failed login attempts to 53 before locking the account for 53 minutes.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+8a8254b0-935d-4cb4-b74e-71e403e67d44,The platform must be safe.,Cloud Systems,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+04ce42aa-7fb7-40e8-8f47-bbe4c95efa26,The software shall be highly beautiful.,Cloud Systems,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+02f19953-1ccc-4482-8e8b-d68647a174b7,The service shall be highly intuitive.,Banking,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+f70b5c1b-b7b8-4e8a-9fcb-84dd268e3ea4,The software must be highly scalable.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9b93f4b2-00de-421a-9868-ad71817535ce,The module should be easy to maintain.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+14a8c4e0-ff70-43ad-866a-11de5e08c05e,The module shall process the payment transaction within 16 seconds.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+2a7f3f58-610b-4de2-b537-17f0ed573c4b,The system shall provide a seamless user experience.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+63e529f5-1cb1-4a38-a282-f9fbc3bf1b6a,The system must load the dashboard in under 30 seconds on a 4G network.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+9f98ce02-d47b-4544-a5d4-8932cc9a040c,The module should have an intuitive interface.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9041e07c-a28e-497a-b9df-ebcac7ac723e,The application shall process the payment transaction within 37 seconds.,Education,Clear,[],Complete,Testable,synthetic,1.0
+be788f7b-010a-498e-95fb-25bc08988179,The system shall provide a seamless user experience.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d7a4ae3e-6342-46a7-8fc1-0387a6f00b99,The application shall encrypt all user passwords using SHA-256.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+a4045269-c719-4e35-b1d2-970d71e30949,The software must support up to 52 concurrent users without performance degradation.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+e2e35ef9-9d8c-45c5-9d47-23546ddc8e6b,The platform shall provide a seamless user experience.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+beabcea8-2f5e-46aa-adfb-adf30ba616b8,The application shall integrate with third-party services.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+233e6cfd-6a9e-4158-b31b-191822cb79d2,The service shall be highly beautiful.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+ff31de9f-3555-42da-be78-198a3f549a77,The software shall be highly effective.,IoT,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+5ac7b067-97bf-4e57-8da3-8f30f8aab749,The system shall generate reports.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+1504847b-995e-4889-b186-980af5846a7d,The application should backup data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+26c21ec8-0716-401e-add4-5734601d9ccb,The platform shall respond instantly.,Food Delivery,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+2086e9ae-8794-4dfd-a1e4-dc36f2ba4ebd,The system must be highly scalable.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+243458e4-3a29-44f9-bfe6-e684333773a5,The platform must load the dashboard in under 45 seconds on a 4G network.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+d3088d10-fcb1-4a0e-8fd5-a162d65911c2,The application shall be highly user-friendly.,E-commerce,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+0a7630e6-dfea-437f-94e7-4d079ae7ecbf,The platform shall respond without delay.,E-commerce,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+a331bc39-7f91-4efa-b236-089844887fed,The module shall be highly user-friendly.,Banking,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+40748f30-3ca4-4698-8aab-ade55a933a25,The application must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+790749d2-91ac-4d4d-a8c9-224e5f8899c6,The software shall process requests soon.,Social Media,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+f3a25a79-6343-4963-9571-4bd8fe5b70ce,The application must be robust and reliable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+401526d3-0a81-43f2-8f57-4c225193cdca,The service must validate user input.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+0edfba69-8817-481b-bd50-214fd54f84b5,The module shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+363c62be-a566-4e36-97cf-dcfabcb2bc80,The application must support multiple users.,Social Media,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+8f97976a-323f-44a2-b762-bd0696b51644,The software should backup data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+1f55b659-635f-4fcb-b704-1fddda065ca2,The application should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+1bdd1e59-9965-48fc-be07-c39b472eccdf,Users shall be able to reset their password via email within 28 minutes.,Education,Clear,[],Complete,Testable,synthetic,1.0
+c6956306-16c2-4af0-8f75-71ffc7a6d507,The platform should be easy to maintain.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+bc321334-3af2-43c0-ac61-4d8c29027da5,The software must support many users.,E-commerce,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+cbb27f7d-3af8-40be-9de1-0d146c6e1c92,The platform must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+17580abf-e573-497a-a47f-c852b03721c9,The application must be highly scalable.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1d6355fe-21f8-482d-a725-ea5cdd7b44b4,The service shall process the payment transaction within 13 seconds.,Education,Clear,[],Complete,Testable,synthetic,1.0
+bcfb46c6-3162-4b32-9e23-0f6b50f699d8,The system shall generate reports.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e41b5849-2b26-4627-9a0e-397cff447be7,The database shall automatically back up every 22 hours.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+aff30cdf-cc90-4536-bc30-da483d86d788,The module shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+f1a59652-94f0-4691-b892-354537acbc78,The application should handle massive data.,Mobile Applications,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+62dd06da-d603-473b-84a4-107acc6168fd,The system should handle significant data.,Banking,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+eb4b0905-2a5c-4876-bf48-dc82040b02fd,The system must be highly scalable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b2301ea4-72e7-49e8-a1b6-65a7feeef1c6,The system should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5f08d639-3012-468a-bed6-fec789f1b791,The module should backup data.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+911a8591-ccfe-496e-bf25-5b9d824f67e5,The platform shall limit failed login attempts to 8 before locking the account for 8 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+4ef990c2-81e8-4552-b3bb-1726a58b43b0,The platform shall provide a seamless user experience.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+dd05d3e8-c52f-4284-baad-2ca46efdccf3,The platform shall process requests periodically.,E-commerce,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+c42d24f6-786a-4649-b4d3-a846003fac16,The platform should be architecturally sound.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a50432f2-d57c-48bc-83e3-eba107d9b002,The platform shall integrate with third-party services.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+466bb30e-baf4-482b-82f6-7296ce970b53,The system must validate user input.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+20987d89-217b-44ab-952e-d2289e20ba1c,Users shall be able to reset their password via email within 59 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+f0525c3b-5649-455b-a847-d7d5e18f6e8f,Users shall be able to reset their password via email within 2 minutes.,Education,Clear,[],Complete,Testable,synthetic,1.0
+88d5d1bd-e734-4fcb-b306-c1c5be166f7f,The platform shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e7f25198-ca45-41db-8cb3-c65c388284f6,The system needs to be better.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+4c9eb51a-7d02-4d5f-a6e2-7ac2214f0937,The service should be architecturally sound.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7703bd8b-034e-4ccb-98c0-d8989c020c99,The service must be robust and reliable.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+97c1b43a-017f-44bf-8425-84e040d4ec0d,The system should handle significant data.,Healthcare,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+a36d7e1c-0570-4f1c-9236-09811222b3c4,The application must be highly scalable.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d0f0148e-44e5-45b5-b389-324b6f65e360,The module shall generate reports.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+28952352-1fd0-4dc2-98ab-2c1e0b7b2d8b,The platform shall be user-friendly.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+21a0e8c1-cfec-474a-acf9-1aa6466e45c9,The system should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+537ebbba-7e8e-45bf-8134-1244bdefd435,The module shall limit failed login attempts to 11 before locking the account for 11 minutes.,Education,Clear,[],Complete,Testable,synthetic,1.0
+adbef240-2d77-4cfb-a807-590beee1dced,The service shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+83ce3fb1-fed5-4b2b-9189-99f4ba3c3550,The module shall encrypt all user passwords using SHA-256.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+5a1cfb63-d6bd-4ab7-ae77-4998bcc562a3,The system shall encrypt all user passwords using SHA-256.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+2a484abc-dc48-4666-9264-ebe99de29ab7,The system should have an intuitive interface.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+001682b3-3837-45ea-9859-bf19a23fb3d1,The module must be safe.,Banking,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+587b8ebe-7206-4039-b7eb-8929e741bdd9,The system should be easy to maintain.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+14d0c084-7e28-44d3-aced-b4aef1c3e964,The module shall send notifications.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+af5ecebb-db69-48d5-8abf-d84293d2e49a,The system must be robust and reliable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+adefb231-609a-4131-906f-daa2a5d9a0a3,The system must be robust and reliable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f64fe689-0273-47bb-851f-1391c58b5e6b,The software shall process the payment transaction within 56 seconds.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+79b342d4-117d-46f1-9a75-5921d21a584c,The software shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5d229c25-8e9c-46bf-8efe-2ca805a0aa6e,The application must validate user input.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+00940d5a-ee3b-4087-81af-8c988750d2e5,Users can export data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+64635126-9e34-4e59-9bf8-e0e2f33f5b45,The system shall be highly beautiful.,Transportation,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+ff5962aa-1448-49c0-a94e-262d743290af,The module must validate user input.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+64d852c3-0a61-401e-a849-48046f86b1c4,The software shall send notifications.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ee14ecf9-61d9-4c0e-9981-c3db20c38e92,The software must support up to 7 concurrent users without performance degradation.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+88260c50-92df-4cb6-bb96-e886b383f68a,The system must load the dashboard in under 37 seconds on a 4G network.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+eee8768c-6212-4da3-86bd-633f7e613d9b,The system shall respond instantly.,E-commerce,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+65e163a7-c1c0-42f3-a51e-1bef7cc1f446,The platform must validate user input.,Banking,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+f8f92f19-aa96-4e78-84b6-76446c1453ac,The platform shall send notifications.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+45fee177-90f5-4102-82c9-0273118034ed,The application must load the dashboard in under 40 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+68cabe99-6d76-4081-b3c2-a8b5e10b731e,The module shall be user-friendly.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1b6e1b74-7b58-4746-9bea-2fa255871075,The application must validate user input.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+b49fc6b0-ef02-4170-8409-a19ad3773611,The system must support up to 44 concurrent users without performance degradation.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+e72ba1f6-935d-4b1f-8444-eecd99a0320c,The platform shall be user-friendly.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+97812a54-541b-4c88-8c5a-f885775aa7c5,The service must be highly scalable.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f8a81992-b2b6-47f7-b576-d3369ced4dff,The service should have an intuitive interface.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+fb3c8bf9-75ce-4e93-b7d3-1d3be13332eb,The database shall automatically back up every 40 hours.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+e1d99d57-6d6b-4865-95bb-5f7a1ca89a87,The software shall provide a seamless user experience.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7d362306-f0f9-4175-9b64-148fe77457b7,The software needs to be sufficient.,Food Delivery,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+1fc4bb3f-8246-4dd7-8edd-8e65f6dfd939,The application shall generate reports.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+4d170fb5-8c57-48b2-8d77-dd4511c854f3,The application should have an intuitive interface.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d3b434ea-ad1e-4591-bd8a-5112cedc83be,The application shall respond without delay.,E-commerce,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+0ba52a0e-e5a3-4595-b0c2-c274b85507ac,Users shall be able to reset their password via email within 38 minutes.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+0fd83d0a-2002-4244-a626-201672d2e0f3,The system must be robust and reliable.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+30eeb490-069f-499e-8b36-5bedca69e97b,The software shall integrate with third-party services.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+7d56e8c0-e1db-440f-b354-b6a70010891c,The system shall respond quickly.,Education,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+624a77b5-3c76-4c02-8dc7-13e299c71f68,The application must support a large number of users.,Cloud Systems,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+5dc22d72-ed5f-4eae-bc5f-fc1d44305f04,The application shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c01abce2-6c1d-4b30-8d60-5e297dec2bac,The platform should handle substantial data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+a194b747-fc34-41de-a92f-03596df873c7,Users shall be able to reset their password via email within 53 minutes.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+a90b745d-0cd1-4bf2-bb0e-88f229736393,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+6b94a2e4-6cbc-4b79-9987-1932fdaf4793,The software must be robust and reliable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+3fe7d215-3874-455e-877b-03ae8ab25982,The service shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a50b31c5-91c8-4e50-9051-42c3f7f4080c,The platform shall generate reports.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+f1803df0-8b9e-4eaf-ba8c-6981af02e70e,The application shall integrate with third-party services.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+049a097d-d53e-487d-8cc0-0a35a2a54f63,The module must be robust and reliable.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c1551e97-7fbc-40b2-b901-a63b9aa4f78f,The module must load the dashboard in under 57 seconds on a 4G network.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+f2bc273c-f118-4c23-87bc-bc684af61ed1,The software must be unhackable.,Banking,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+6c216909-ffcc-40a8-8b9c-6b005becbdca,The module shall send notifications.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+3f874b3d-acd7-424d-9c1b-ace2efa35f7b,The service should be architecturally sound.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+db550b38-df3d-44f8-b04c-29e32842f8a3,The application must be highly scalable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f66f4fad-33d4-4224-8e1e-a33be97d5c78,The software should handle substantial data.,Food Delivery,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+77b34e0d-378d-40a4-af06-da7e780b2adf,The service shall be highly effective.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+6e6c636d-17ad-47c3-bea1-63cfa636b304,The system shall send notifications.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+b01b1523-c5c6-437c-acae-e3f281ad853b,The service must load the dashboard in under 34 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+bcbb2cf1-642e-4dca-98c0-5a90833cb044,The platform shall integrate with third-party services.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+8d83fbd6-a0a3-407c-8864-63d8778f91b1,The service should have an intuitive interface.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+8163c5ae-918a-4e2c-928c-8fd2305fb4ec,The module shall process requests frequently.,Healthcare,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+473383a7-83aa-4241-bbbd-d69cf65b4928,The module must be robust and reliable.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d916457f-0d5d-4eae-8f1d-c5af8bdade7c,The system should handle significant data.,Transportation,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+b2079a6b-c873-44fa-999f-7238f2409920,The application shall provide a seamless user experience.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b22f6fc5-d666-4e29-a44f-87455a35d02c,Users shall be able to reset their password via email within 8 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+597ed7e6-bf46-4cec-bd82-e71b9fec646f,The software should backup data.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c0d6d04b-2b07-4430-82cd-69f645c96488,The service shall provide a seamless user experience.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0c5932d1-4043-436d-aa0d-8b1efbe2eaac,The database shall automatically back up every 3 hours.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+1607a24d-8cfc-4786-b78c-d53b81cf101a,The platform shall integrate with third-party services.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3a9bd7bc-4e09-4be0-809b-2a187bf7bf5a,The system shall process the payment transaction within 4 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+c0ca3006-dd2b-449f-9a98-903d662d85d1,The service should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+be0114ac-4318-4fb8-896a-77492cb1b230,The platform shall encrypt all user passwords using SHA-256.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+1bd0522d-562a-4de6-841a-7d2fde90689a,The module needs to be good.,Education,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+d06cc45d-82ca-4b81-9588-3d2a52c2c8ef,The service must be highly scalable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a4b1a2d0-394d-40bc-ba0a-da8255047427,The system should have an intuitive interface.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a775921b-abfb-42c5-8528-153b99af7d3c,The application shall be highly efficient.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+eabfd5e6-c00b-4fef-b2e9-ae68508a7f74,The module must support up to 29 concurrent users without performance degradation.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+22251f8f-8582-4f30-be8b-21ff48f26c99,The service must support up to 38 concurrent users without performance degradation.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+a19cc163-b893-4f82-930e-bdbc5f41465c,The module must be robust and reliable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+ede6e4ba-523e-407d-8fa1-4ba82fdc70bc,The application shall limit failed login attempts to 55 before locking the account for 55 minutes.,Mobile Applications,Clear,[],Complete,Testable,synthetic,1.0
+79137cd1-115f-4300-92f1-4b9387ffb233,The module shall process requests frequently.,Transportation,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+7b92b00c-9c84-4f7e-be82-b14b9eeda192,The system shall provide a seamless user experience.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+65336a77-3d0c-4aa1-848f-ecb259056244,The module must be highly scalable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+3ed6cbdf-4768-499c-bd6b-202e46880054,The module shall process requests periodically.,Food Delivery,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+9a3f98c3-b491-4d78-b302-8cb7244df5e2,The module must be unhackable.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+5e7dcbc8-313c-4144-b765-f84da09aeb02,The module should backup data.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3d9bb4e7-26eb-4621-96c6-b834b0ddaf0e,The module must support multiple users.,Healthcare,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+ed5754eb-a279-4dfa-a775-4b6c07d97298,The application must support numerous users.,IoT,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+5aafddd9-cb39-48c6-b9b4-1c00116d9e1f,The service shall limit failed login attempts to 19 before locking the account for 19 minutes.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+a4dc6806-9334-4c29-8050-e2739a6689dc,The platform needs to be good.,Social Media,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+f90e8ced-a1e3-4215-ab22-0e9e68712106,The platform must support up to 57 concurrent users without performance degradation.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+a4fdb524-385a-4893-a2d6-f38eaf055fec,The application shall integrate with third-party services.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e47067f7-89a5-4631-a9ee-4c1463ea1e11,The service shall generate reports.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2e2bb2a4-98bc-450c-bcea-1ff3c7b4c015,The module needs to be appropriate.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+21289294-81fa-43f1-8901-9f3b63c61364,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+39378b5c-85a5-4bec-943c-a70ec85cf3ef,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+c2fa6ceb-c974-4567-8d18-4c5dcd315d50,The software shall limit failed login attempts to 22 before locking the account for 22 minutes.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+aff27bb1-452a-44cb-97ce-5fe04d556768,The software shall provide a seamless user experience.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+dcb73df3-e5fe-4840-aded-21945e797511,The module must support up to 57 concurrent users without performance degradation.,Education,Clear,[],Complete,Testable,synthetic,1.0
+68158bcf-e0f6-4dff-9b09-c2642c463f0d,The platform shall integrate with third-party services.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+06295fb5-a394-4355-965c-3f3f65661e60,The module shall process the payment transaction within 23 seconds.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+5aeb5807-bd34-43fe-9a1b-589894201b0f,Users shall be able to reset their password via email within 20 minutes.,Education,Clear,[],Complete,Testable,synthetic,1.0
+160fa4d6-2266-4b24-b30f-5d28222ab7ca,The system shall limit failed login attempts to 34 before locking the account for 34 minutes.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+bf041884-1478-4d3d-bbda-308fce110618,The module needs to be appropriate.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+1fbc422a-d862-4cb8-95ca-21e24f9ebfa6,The platform shall integrate with third-party services.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+1555671a-0771-4b03-9072-bebc3390bd70,The application must load the dashboard in under 39 seconds on a 4G network.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+0b4ff0ef-78df-4cb6-bda9-564968a4d33c,The application shall provide a seamless user experience.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+477b059f-0ef0-4060-a193-ce709a81554e,The module shall be highly beautiful.,Banking,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+a95284ae-283a-45d4-bc71-90e3934e1e7c,The application shall be user-friendly.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+96ac41b5-cb82-4d21-a699-d685a672e70e,The software must be highly scalable.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d422626c-815d-4b83-acd1-6eac73f7c5d6,Users shall be able to reset their password via email within 50 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+e3d0b60d-140c-4a3a-9b31-5f45b75e0a9c,The module must be safe.,Banking,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+461e05e1-d25b-47a3-be01-d8096896bed1,The system should have an intuitive interface.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b9b2f78a-c4a8-409b-8db6-c694860270fe,The system should be easy to maintain.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9d85152a-c05e-456a-9461-3b1d1a9e4228,The application shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+478f45fd-edec-4c6d-9323-487856cb39cd,The service must be safe.,Banking,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+bd6efe99-71c2-4a8f-b1b6-8057a836bbd9,The platform shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+69abc7b7-5fa6-4387-9560-6f9d5174629d,The system shall process the payment transaction within 32 seconds.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+40bd1320-9246-4bdd-8440-55f5d5295e98,The platform must be protected.,Food Delivery,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+46aa9c70-ae0b-4741-ab0a-5ff9f7c4c18b,The software shall process requests regularly.,Education,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+057808d2-6e7f-48d5-8f1a-717040ce20fa,The application shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c80290b2-78a6-444f-b9f9-6cda6ab5af40,The platform shall be highly efficient.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+69aeb05d-729f-4c29-9a08-3d0d67276e1a,The service shall send notifications.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ed2d54ca-4b79-4139-81fa-e80f1af90e9c,The software shall integrate with third-party services.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2c77f4cf-2bd8-4513-a019-026283a2bcdc,The service must be robust and reliable.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+58ed1a33-5d01-437f-9a58-d9cb0523502a,The database shall automatically back up every 36 hours.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+d10d90b9-a0e1-48d7-8819-8c783d2f70b8,The service must be highly scalable.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7b7ecac4-cbcc-4959-9c08-4490e3393df4,The software shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+fc0c5379-eb48-4f5d-b4ff-dc8affeee248,Users can export data.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+13b16611-ed33-4582-8258-73aaed225e00,The system shall generate reports.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+d79f0614-4260-49d0-a2bb-1f020ac05637,The service shall integrate with third-party services.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+489ad95c-8dc9-4992-8d9f-4bc591d302c5,The module shall respond instantly.,Social Media,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+dc632c45-242b-4319-b4d2-cd75dc59c975,The application should be architecturally sound.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7926b436-e414-42d3-93ad-65cc8ad6584e,The service shall process the payment transaction within 35 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+1bbb9362-da1c-46b4-a16f-9f65dfaac75e,The module shall respond quickly.,Education,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+3a9674bb-f4a8-45e2-8b4a-a6e98f5a6d31,The software shall be user-friendly.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+9927ba8f-df72-4f24-9e50-87519f2c67cb,The platform should be easy to maintain.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+c21fa0d0-26ef-4201-904c-011332c3b18e,The system shall limit failed login attempts to 38 before locking the account for 38 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+22bbb62f-f797-4dd1-8f8b-5e4ac7c6d046,The service shall generate reports.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+8256f3a3-67c7-4d92-96e3-b7bf6dee4c11,The module shall generate reports.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+42ca088e-bf6b-4a96-a3e0-1af431b1ecdc,The system shall integrate with third-party services.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+35ea3fab-abc2-4e0f-bd2c-e811b4e98877,The platform shall encrypt all user passwords using SHA-256.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+1c81df07-206b-4944-8b69-2bd068012e17,The application shall process requests occasionally.,Education,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+f620f30a-59d7-48c6-8393-c87c65f848a4,The software shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+6b4af9a5-2623-4c4a-8059-b27211e932a5,The software must validate user input.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+faa7ad1d-c326-4c66-a93c-f3c60fa159a9,The application shall encrypt all user passwords using SHA-256.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+4e4ea8d9-5c92-444e-9fc8-9016e752fda3,The software should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+b0f4044b-3163-4996-91a8-622d4518c834,The service shall process requests frequently.,Food Delivery,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+7e5783f5-7115-43da-811a-bd193525988d,The service must validate user input.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+9914de2f-5556-4fcc-bf0f-f36bdca33083,The software shall limit failed login attempts to 10 before locking the account for 10 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+8e98dff1-7aad-42f2-8a02-91cb1f2d8427,The service needs to be sufficient.,Transportation,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+b37ceddf-0721-4009-9324-3c76ea7e45b0,The platform shall encrypt all user passwords using SHA-256.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+3cb2fc46-e769-49b3-9068-101cebfc20b5,The service shall process the payment transaction within 48 seconds.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+414774d5-f89c-4316-8c72-c6029b9e726e,The service should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+e1846c14-2424-4309-a581-a5e3e5c00ef9,The platform shall be highly user-friendly.,Transportation,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+791d5976-f375-4a85-a0f6-9bfddc82922d,The software shall encrypt all user passwords using SHA-256.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+4c82370e-1d81-434d-b418-0692ca3a4f29,Users can export data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+cf858c82-ce90-468f-85b7-9657f97f1983,The module shall generate reports.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+b99d0b3b-6f3d-41c2-b925-4784c02b1608,The system should handle huge data.,Healthcare,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+c484c876-9f17-4336-8ab1-0166506bf7d2,The platform should be architecturally sound.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4ff98a03-5d77-4028-be47-12397830f2f0,The system shall integrate with third-party services.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2f1b8ec2-6074-49ce-abe8-672df22762d1,The system must load the dashboard in under 54 seconds on a 4G network.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+73715e1e-53b6-42b0-b35c-acdd2c317e70,The software shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+fa36bcca-dbe6-4702-9847-1dc07707973f,The service must be protected.,Healthcare,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+91145a7a-f8f8-46aa-8ce5-d3bc0b6a312b,The software should backup data.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+5a8f30a7-5bd6-4551-ae8a-56752d1ef9a8,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+86983b81-a69c-4f4b-9463-829b43e02d48,The module should be easy to maintain.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0b1f74f7-5233-4eec-822c-47664aad10fd,The platform must load the dashboard in under 15 seconds on a 4G network.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+d66c88a3-7eff-4518-8de6-e2540ed0ca83,The software should be architecturally sound.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+2951de88-7362-4190-b115-99efd9f985fe,The module must be robust and reliable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+5c45343a-6422-4431-9775-50a2c384786e,The platform shall process the payment transaction within 50 seconds.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+f950126d-5af0-4314-a4d0-0869405408da,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a6c0bd44-267e-4c9c-b168-c0d5b84d5e55,The module should have an intuitive interface.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+1506754c-66ec-4428-916c-f7ceb19d01fb,The service must support up to 2 concurrent users without performance degradation.,Social Media,Clear,[],Complete,Testable,synthetic,1.0
+823a9ac6-6775-4606-99e3-6ce0b9780618,The software should backup data.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+71453c97-dad0-4bec-8c44-f4bd5a719d27,The platform must be protected.,Mobile Applications,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+11b50fee-b221-42b4-a9c8-fcc1a0914664,The service shall process the payment transaction within 51 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+1151d61b-8782-4647-9172-33e7f77998fe,The application shall send notifications.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+c888cf9f-406c-4524-93b5-fd2e9986c010,The service must load the dashboard in under 22 seconds on a 4G network.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+676ef4e2-2f28-465f-9314-b97f02f2ffab,The platform shall send notifications.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+4b84bb28-88e3-493c-8e7a-797bd8b46c89,The application shall integrate with third-party services.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+fe3f179a-e783-49e5-bd99-3ee8437a1291,The application should have an intuitive interface.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+a36d2075-15d1-4664-89fb-238ed55bba0b,The software must support up to 6 concurrent users without performance degradation.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+977da812-6c65-41ad-9a88-516eee0bd76f,The application shall integrate with third-party services.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+28877e39-b628-4836-9a1a-ac983efeeeff,The application shall generate reports.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+a3514b5a-fb5c-40c6-816d-380527482102,The module shall integrate with third-party services.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+cf6ad3ce-ac1e-4ff9-8e71-c3cce4ccc20f,The system should have an intuitive interface.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+546da495-e685-4e64-9d3f-b8760670fab6,The application shall be user-friendly.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f0aa35ae-90ab-44d6-a0b2-f9672e8ea624,The software shall process the payment transaction within 35 seconds.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+6f6c8070-9fbd-4210-b72d-8ad815dedb8a,The system shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+7a45ff9e-ee15-4d33-a2fb-b447e1f08cc6,Users shall be able to reset their password via email within 15 minutes.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+2393aa4f-6696-47db-b2c4-a8f2112a1515,The system should backup data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+53c74ef0-3c8e-415d-ba95-4644e96a2b33,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+66f1f655-dfe4-4dfe-8550-69bfa1fb1f8f,The software must support up to 55 concurrent users without performance degradation.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+88303f10-79a7-4c0d-b65a-d891a45fe2c4,The database shall automatically back up every 60 hours.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+90d7502f-029a-430e-a048-37e219b01497,Users can export data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+3d89afa4-c9bc-400f-b547-e20a06347532,The application must load the dashboard in under 10 seconds on a 4G network.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+b62a0aed-c1f8-4bba-b384-2d76d0aa1f9f,The platform must load the dashboard in under 35 seconds on a 4G network.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+51ea3801-ef7a-473e-a805-6fa9188e386d,The database shall automatically back up every 8 hours.,Education,Clear,[],Complete,Testable,synthetic,1.0
+1ab5f458-25d7-48f5-83e8-8a48a892bca8,The application must be robust and reliable.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+fcbdaea6-52d9-43fd-bea9-f52b29c1b3c6,The service shall be user-friendly.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7f871e77-bab8-4b2c-94c7-eea9aea7989e,The application should have an intuitive interface.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+82a93688-7f30-4c9d-8bca-6f47205f411e,The system shall process the payment transaction within 41 seconds.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+7536817c-29c9-4406-a090-a9688f059a7d,The software shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+679f9505-5f25-424a-95cd-f49192a3b5ae,The module shall process the payment transaction within 6 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+5233ad87-7f7d-4652-ac26-7e7167d23d5f,The software must validate user input.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+314e0307-0e95-4895-9575-aedb45789149,The module must be protected.,E-commerce,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+c1af2be0-0fd5-4d40-86ca-19b33cb43f30,The system shall encrypt all user passwords using SHA-256.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+b1eaaa4d-32af-48ad-b1af-479e19a46ce2,The service shall be user-friendly.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+10269446-7a28-4283-b898-7d56301bb9df,The software shall process the payment transaction within 26 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+2d254890-065a-4a06-aff3-c547c0f6aa81,The application shall provide a seamless user experience.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0668a556-cd64-4f9d-ab61-0c43140238f3,The software should handle significant data.,Cloud Systems,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+ede4ad65-2c5e-433f-aa48-78c8fa9df319,The platform must be highly scalable.,Banking,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+cbde659d-4b0f-49e2-89e8-a7d3788d9da3,The system shall integrate with third-party services.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+98510634-c588-44b4-b09d-fc29436b35d7,The application shall process requests soon.,Food Delivery,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+07364314-7947-4d9a-a4fe-fa3c1cfcb41b,The service must be robust and reliable.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+63e9121d-695d-4bab-8a22-4267e7d797d7,The module must support up to 19 concurrent users without performance degradation.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+411ab89d-5f37-478f-be23-d365c736efe5,The service should be architecturally sound.,IoT,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+6ef083ed-4eab-4d93-9ade-c1a1ec995468,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+07d1b4ed-7f9a-4238-bb2a-45c14a456d02,The system must be impenetrable.,Healthcare,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+fbc6e4a2-6e2c-4494-81c4-9feda37c50d4,The platform must support a large number of users.,Banking,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+5415c4f1-18a8-49cd-bca0-4b04fb07d6cc,The application must support several users.,Mobile Applications,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+ccadddb8-a683-40ae-b56d-b09c07c0a9b5,The platform shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+f4426dbb-088c-44a9-9659-3871903d9f66,The service shall process requests frequently.,Healthcare,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+f70bb6be-f0d9-4a14-8e72-a36778ab6b81,The module needs to be good.,Food Delivery,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+8098c58c-4a21-42a1-8eed-a3585e601908,Users can export data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2776f4a3-4e34-4314-94f7-58ab5d5b2a0a,The database shall automatically back up every 14 hours.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+ccf78358-b9af-42d6-9900-baea5ea3afa5,The module must support several users.,Food Delivery,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+c0cd5c48-d252-465f-9b3b-dadb4d40aff9,The platform shall be user-friendly.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+ce71c4c0-c91b-4e11-bc80-029c3125de13,The software must be safe.,Banking,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+4bef5347-1f73-411d-b812-b0ad55d12a10,The module must support many users.,Cloud Systems,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+7311c13f-f097-44d1-bbde-fd2e3f6f4f0e,The module needs to be good.,Transportation,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+0b52e8bc-6967-4eee-bb47-88f625c9175a,The platform should handle huge data.,Banking,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+5fec0b9e-c20f-49a2-ae2e-ab7ef303e180,The module needs to be adequate.,Education,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+a751789e-2017-45e8-b61e-7cc446af2173,The application shall send notifications.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ec08fd95-c261-41e2-be8f-cc5eb2764372,The application shall respond quickly.,Healthcare,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+6b66798d-6802-44e7-9d64-0095ea78dd74,The service shall process the payment transaction within 53 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+c13d8ec1-5be1-4da4-ac39-9066e5e27d9f,The software should handle significant data.,Food Delivery,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+86caf22c-26c9-412f-b7d9-ac67dd843765,Users can export data.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+6c34ec3f-3254-410a-8109-ab15670a3bbd,The system must be highly scalable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+91f411d8-e4d5-43fa-abec-9e8f6f56a502,The database shall automatically back up every 18 hours.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+09671078-22b5-4f55-aa34-7d4af2f9ec0a,The service should be easy to maintain.,Mobile Applications,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+b873f78e-6ade-48a8-baf6-68a0c3da3c11,The system shall send notifications.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+4f91df16-fe90-4b9a-92dc-8f1dda9361ac,The service should backup data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+608f0fc4-414d-46f8-bc0b-fb6507925eb3,The platform shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+775204ab-c855-4204-82d7-b4feaf7cfaea,The service should be easy to maintain.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7399b5b5-7022-422a-a89d-496f841c7965,The service should handle significant data.,Banking,Ambiguous,[<AmbiguityType.SIZE: 'Size'>],Complete,Testable,synthetic,1.0
+6870f2a1-89c9-43a9-9f2a-427a5bf22f0f,The application shall process the payment transaction within 32 seconds.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+9c123c14-7141-4a3a-aa60-ad3badf24367,The system shall be highly beautiful.,Food Delivery,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+b92b9001-e31b-41db-bfbd-0fac97b741bc,Users shall be able to reset their password via email within 45 minutes.,Food Delivery,Clear,[],Complete,Testable,synthetic,1.0
+86749e28-c3f8-4657-8dce-ccbe34eb2946,The application shall process requests soon.,Food Delivery,Ambiguous,[<AmbiguityType.TEMPORAL: 'Temporal'>],Complete,Testable,synthetic,1.0
+0a9496b0-7069-46ee-83cb-8732b05fb8f2,The service must be secure.,Healthcare,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+0195833f-4188-41e4-b15c-f7dc23552e07,The system shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+e3416063-526a-4dec-a8ad-e5bf2516f861,The platform must load the dashboard in under 39 seconds on a 4G network.,E-commerce,Clear,[],Complete,Testable,synthetic,1.0
+7e4e7fe9-8f0f-40c2-90c4-befbfbdf502f,The platform shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+aefa5c41-4a8d-4534-b3d7-0e587af0a3ca,The application shall respond quickly.,Mobile Applications,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+313839c9-f6b9-4cff-b2c8-e3aca8536093,Users can export data.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+08b55e33-0b8a-43c0-a217-9558f188c105,The database shall automatically back up every 35 hours.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+9c29ba7c-e251-4484-963d-5b0ea7e5668d,The platform shall process the payment transaction within 36 seconds.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+05a3ec9a-3dfa-4fc5-9838-140023049131,The system must validate user input.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+2390174b-8e2e-4191-86ff-83fec364d20e,The application must validate user input.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+df317167-f1d6-42aa-9a54-b8929c51ba0a,The module shall process the payment transaction within 9 seconds.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+ee8e8d9a-4349-45de-9198-20822973f227,The module must support up to 23 concurrent users without performance degradation.,Healthcare,Clear,[],Complete,Testable,synthetic,1.0
+28581fad-5329-4507-8d2e-8da7f90a4b1e,The service must support up to 44 concurrent users without performance degradation.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+9d401579-8ab3-4fb0-ac94-79c1eacf601c,The software shall provide a seamless user experience.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+93dab8d3-4e53-4955-aaba-f343a3529469,The platform must be robust and reliable.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+7f7b051d-8e0d-49ca-b638-c758a465c09f,The application should backup data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+2320d26e-3c6b-4deb-b8c2-0bbeeacd072e,The module should be easy to maintain.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+913414a0-499a-4bfe-a689-8283f97037ee,The application must validate user input.,IoT,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+d425cdc5-d301-405f-b43d-ed6b2c80f093,The module shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+471c7f47-138b-427f-a927-f61f067ec4a1,The software must be secure.,Banking,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+541d0a0d-0ced-45c1-986c-34f28f652cbf,The module shall integrate with third-party services.,Cloud Systems,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+721bdf0a-ad95-4da7-935b-8b5a0cb19744,The module must be highly scalable.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+001519cb-0263-487e-bd4e-7f21e5151a6b,The application shall be user-friendly.,Food Delivery,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0d3fb2cc-3dc2-4db1-9736-7433d600e457,The application shall be highly user-friendly.,Healthcare,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+8b2a9210-5d9b-4502-bf61-5fadb36054d4,The software shall integrate with third-party services.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+9a261fb0-5335-468b-9062-da271369f023,The platform must validate user input.,Education,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+6b6da074-8541-4d6c-8924-86f23231f678,Users can export data.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+602ca669-fefe-477a-8d1f-fd0878f12611,The application shall process the payment transaction within 11 seconds.,Cloud Systems,Clear,[],Complete,Testable,synthetic,1.0
+9b19695b-46a8-46ad-9251-dff194d7e416,The software shall encrypt all user passwords using SHA-256.,Banking,Clear,[],Complete,Testable,synthetic,1.0
+bddcb469-eaa5-42f6-9352-87a723cdc851,The module should be architecturally sound.,Healthcare,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4abaf474-9581-41ab-a3cb-90baf7b04f7a,The module must load the dashboard in under 60 seconds on a 4G network.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+16e8fb4b-395d-47e8-82b2-50fb3c7169f7,The platform shall respond without delay.,IoT,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+bca55d35-235e-4d7e-9f43-fba6d569db74,The module shall be highly efficient.,Education,Ambiguous,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Testable,synthetic,1.0
+8241f9ab-6466-43ba-a76f-d8448e115cac,The application should be architecturally sound.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+2092a2a2-1df2-4e75-81ae-28f52f5ea1c5,The platform must load the dashboard in under 33 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+7847790e-50d0-4e29-9c22-070ecca652d7,The software must load the dashboard in under 29 seconds on a 4G network.,Education,Clear,[],Complete,Testable,synthetic,1.0
+b68ec514-835d-4a65-b99c-b0f7ebac773f,The module shall provide a seamless user experience.,Transportation,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+3f82684b-2970-4fb2-92e3-ea2b0c289095,The platform shall be user-friendly.,Education,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+0b109e1a-2804-4511-a2bb-9ab2e0d7b612,The application shall respond fast.,Education,Ambiguous,[<AmbiguityType.PERFORMANCE: 'Performance'>],Complete,Testable,synthetic,1.0
+b1540b4d-b287-4f2f-bc82-68a74223dd9b,The service must support several users.,Food Delivery,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+bf02b822-7733-4dd6-a1c0-7793055c6512,The software must support multiple users.,Transportation,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+7f791435-3deb-48b0-ba06-5bc51dd4751a,The software must be highly scalable.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+04af791e-edf0-4279-9866-e8564483a8f4,The module shall provide a seamless user experience.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4d3cbed8-7ce3-4b67-8e74-9bea1def04fa,The software must be secure.,Education,Ambiguous,[<AmbiguityType.SECURITY: 'Security'>],Complete,Testable,synthetic,1.0
+eb6cbdc4-07f5-452d-a6c8-72581945f70d,Users shall be able to reset their password via email within 2 minutes.,Transportation,Clear,[],Complete,Testable,synthetic,1.0
+0eb8e7e0-37ae-4121-a8dc-fa37c85d3f5f,The system needs to be good.,IoT,Ambiguous,[<AmbiguityType.VAGUE_TERMINOLOGY: 'Vague Terminology'>],Complete,Testable,synthetic,1.0
+1eb928f8-16fd-446b-b9eb-1db91c2f6427,The service shall integrate with third-party services.,Healthcare,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+33545ac4-8aba-4791-a89f-ba2b34e295c8,The service should be architecturally sound.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+4c5567e6-cc95-4466-9de1-3139e7e17af0,The system shall be user-friendly.,Cloud Systems,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+d5385b57-cdc3-40e1-bdb5-3b587a1fdab0,The service should be easy to maintain.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+00560d98-fa6e-491b-be19-157300d4a932,The service shall encrypt all user passwords using SHA-256.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+5b1597ef-6b42-4e1d-a06e-5951a8cf2af9,The application should be architecturally sound.,Social Media,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+258333ca-f651-43bd-b186-d08ff567247d,Users can export data.,Education,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+6de1155e-94b0-4ea5-9015-df418488510e,The platform shall integrate with third-party services.,IoT,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+dc9db45a-fa3f-405c-a553-568e3e7fd5b2,The software should backup data.,E-commerce,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+981470d4-8d95-4f37-ac27-62c6cbae38e9,Users can export data.,Social Media,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+69116c6c-be1c-4884-9f24-e1769381f330,The platform must support numerous users.,Healthcare,Ambiguous,[<AmbiguityType.QUANTITY: 'Quantity'>],Complete,Testable,synthetic,1.0
+9ceab245-4549-44cf-b486-e4606f828882,The application shall integrate with third-party services.,Banking,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0
+bf562685-c62e-43a8-a570-70699289dff0,The system must support up to 47 concurrent users without performance degradation.,IoT,Clear,[],Complete,Testable,synthetic,1.0
+f366ab6f-152c-4566-b387-b7359243b9b8,The system must support up to 36 concurrent users without performance degradation.,Education,Clear,[],Complete,Testable,synthetic,1.0
+2be30eb5-3b80-4d96-8e03-3a4112afcc53,The application should have an intuitive interface.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+905b5cf0-cf93-431c-a9e8-d05eca8ab4d3,The software shall send notifications.,Transportation,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+c64c70c4-ca4a-4bcc-8207-c1581af2d576,The system must validate user input.,Mobile Applications,Incomplete,[<AmbiguityType.MISSING_CONDITION: 'Missing Condition'>],Incomplete,Non-testable,synthetic,1.0
+ba08393a-66ee-4243-966f-0f223c1b63e5,The system must support up to 9 concurrent users without performance degradation.,Education,Clear,[],Complete,Testable,synthetic,1.0
+1f3e8b27-664e-4ee4-93d9-a45bda0a44ba,The software shall be user-friendly.,E-commerce,Non-testable,[<AmbiguityType.SUBJECTIVE: 'Subjective'>],Complete,Non-testable,synthetic,1.0
+54725fd7-4482-4510-99f2-5dca3f73e531,Users can export data.,Food Delivery,Incomplete,[<AmbiguityType.MISSING_CONSTRAINT: 'Missing Constraint'>],Incomplete,Non-testable,synthetic,1.0

@@ -1,0 +1,12 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+sqlalchemy==2.0.36
+pydantic==2.13.4
+pydantic-settings==2.6.1
+python-multipart==0.0.12
+# Our ML dependencies (already installed, but good to document)
+spacy==3.8.14
+scikit-learn==1.7.2
+sentence-transformers==5.4.1
+transformers==5.14.1
+torch==2.5.1+cu121

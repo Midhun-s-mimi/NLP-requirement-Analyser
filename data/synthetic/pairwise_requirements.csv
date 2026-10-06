@@ -1,0 +1,801 @@
+requirement_a,requirement_b,relationship
+The database must backup every 12 hours.,The software shall support dark mode.,Neutral
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The system shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The software shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+Users shall be able to filter search results by price.,The system shall support dark mode.,Neutral
+The application must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The software shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users shall be able to filter search results by price.,The platform shall calculate shipping costs based on weight.,Neutral
+The application shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+The system must be accessible 24/7 without downtime.,The platform will be offline for maintenance every Sunday.,Contradictory
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The software shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The application shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The software shall process payments within 2 seconds.,Admins can export sales reports to CSV.,Neutral
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The application shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+The platform shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The software shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The software shall process payments within 2 seconds.,The platform shall calculate shipping costs based on weight.,Neutral
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+Users shall be able to filter search results by price.,The software shall support dark mode.,Neutral
+The software shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The software shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The API shall return data in JSON format.,Passwords must contain at least one special character.,Neutral
+The system shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The database must backup every 12 hours.,The platform shall calculate shipping costs based on weight.,Neutral
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The software shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The system shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The software shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall process payments within 2 seconds.,The application must process payment transactions in under 2 seconds.,Duplicate
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The application shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The software shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall process payments within 2 seconds.,The system shall support dark mode.,Neutral
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall process payments within 2 seconds.,The application shall calculate shipping costs based on weight.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The platform shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The software must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The application shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The platform must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The platform shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The API shall return data in JSON format.,The system shall calculate shipping costs based on weight.,Neutral
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The system shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The system shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+The platform shall send an email notification upon registration.,The platform shall calculate shipping costs based on weight.,Neutral
+The system shall send an email notification upon registration.,The system shall support dark mode.,Neutral
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The software shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The API shall return data in JSON format.,The platform shall support dark mode.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The application shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The software shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The platform shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The application shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The application shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users shall be able to filter search results by price.,The user profile must display a profile picture.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system shall send an email notification upon registration.,The system shall calculate shipping costs based on weight.,Neutral
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The platform shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The application shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The software shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The software shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The database must backup every 12 hours.,The software shall support dark mode.,Neutral
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The database must backup every 12 hours.,The platform shall calculate shipping costs based on weight.,Neutral
+The software shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+Users shall be able to filter search results by price.,The platform shall calculate shipping costs based on weight.,Neutral
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The system shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The database must backup every 12 hours.,The system shall calculate shipping costs based on weight.,Neutral
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The database must backup every 12 hours.,The application shall support dark mode.,Neutral
+The database must backup every 12 hours.,The platform shall calculate shipping costs based on weight.,Neutral
+The application shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall process payments within 2 seconds.,Passwords must contain at least one special character.,Neutral
+The platform shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The application must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The software shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The application shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+Users shall be able to filter search results by price.,The user profile must display a profile picture.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The database must backup every 12 hours.,The software shall calculate shipping costs based on weight.,Neutral
+The application shall process payments within 2 seconds.,Passwords must contain at least one special character.,Neutral
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The platform must be accessible 24/7 without downtime.,The platform will be offline for maintenance every Sunday.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+The system shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The API shall return data in JSON format.,Passwords must contain at least one special character.,Neutral
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall send an email notification upon registration.,The platform shall support dark mode.,Neutral
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The application must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The system shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall send an email notification upon registration.,The software shall support dark mode.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users shall be able to filter search results by price.,The system shall support dark mode.,Neutral
+The application must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The application shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall process payments within 2 seconds.,The application must process payment transactions in under 2 seconds.,Duplicate
+The system shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The platform must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The software shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The API shall return data in JSON format.,The application shall calculate shipping costs based on weight.,Neutral
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The API shall return data in JSON format.,The application shall support dark mode.,Neutral
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The system shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The application shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The system shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The application shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall send an email notification upon registration.,The user profile must display a profile picture.,Neutral
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users shall be able to filter search results by price.,The system shall support dark mode.,Neutral
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The database must backup every 12 hours.,The application shall calculate shipping costs based on weight.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The software shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall limit login attempts to 5.,The system should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The application shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users shall be able to filter search results by price.,The user profile must display a profile picture.,Neutral
+The application must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The system shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+The software shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The application shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The application shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users shall be able to filter search results by price.,Passwords must contain at least one special character.,Neutral
+The application shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The system shall process payments within 2 seconds.,The platform shall calculate shipping costs based on weight.,Neutral
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+The system must be accessible 24/7 without downtime.,The platform will be offline for maintenance every Sunday.,Contradictory
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The system shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The platform shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The application shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The application shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The application shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The system shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The system shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The platform shall process payments within 2 seconds.,The software shall calculate shipping costs based on weight.,Neutral
+The system shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+Users shall be able to filter search results by price.,The platform shall support dark mode.,Neutral
+The application shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The application shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The platform shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The software shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The software shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The API shall return data in JSON format.,The platform shall support dark mode.,Neutral
+The application shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The application shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The software shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The software shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The software must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+The application shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The system shall process payments within 2 seconds.,The platform shall support dark mode.,Neutral
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The software must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The application must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+Users shall be able to filter search results by price.,The software shall support dark mode.,Neutral
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The platform shall process payments within 2 seconds.,The application shall calculate shipping costs based on weight.,Neutral
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The software shall process payments within 2 seconds.,The application must process payment transactions in under 2 seconds.,Duplicate
+The application must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The software shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users shall be able to filter search results by price.,The system shall support dark mode.,Neutral
+The software shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The application shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The application shall process payments within 2 seconds.,The application shall support dark mode.,Neutral
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The system shall send an email notification upon registration.,The platform shall calculate shipping costs based on weight.,Neutral
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The system shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The system must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The application shall send an email notification upon registration.,The application shall calculate shipping costs based on weight.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The software shall send an email notification upon registration.,The application shall calculate shipping costs based on weight.,Neutral
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The platform shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall send an email notification upon registration.,The software shall calculate shipping costs based on weight.,Neutral
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The application shall send an email notification upon registration.,The software shall support dark mode.,Neutral
+The system must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The platform shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The system shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The platform shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The application shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The software shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The system shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The system shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The software shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The software shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The software shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The application shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform shall process payments within 2 seconds.,The platform shall support dark mode.,Neutral
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The database must backup every 12 hours.,The platform shall support dark mode.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The application shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The database must backup every 12 hours.,The system shall calculate shipping costs based on weight.,Neutral
+The software shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The application shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The software shall send an email notification upon registration.,The system shall calculate shipping costs based on weight.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform shall send an email notification upon registration.,The application shall support dark mode.,Neutral
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The database must backup every 12 hours.,The platform shall calculate shipping costs based on weight.,Neutral
+The platform shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The system shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The system shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The application shall process payments within 2 seconds.,The application must process payment transactions in under 2 seconds.,Duplicate
+Users shall be able to filter search results by price.,The application shall support dark mode.,Neutral
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+The application shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The system must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The application shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The software shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The application shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+The software shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The platform shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The software shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The platform shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The platform shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The system shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The software shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The software must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The software shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The system shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The software must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The application shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The application shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The system shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The software must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The application shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The software shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+The application shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The API shall return data in JSON format.,The application shall support dark mode.,Neutral
+The application shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The application shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The application shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The software shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The platform shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The application shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The application shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The software shall process payments within 2 seconds.,The platform shall calculate shipping costs based on weight.,Neutral
+The system shall limit login attempts to 5.,The system should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The API shall return data in JSON format.,Passwords must contain at least one special character.,Neutral
+The software shall limit login attempts to 5.,The system should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The platform shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The platform must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The application shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+The platform shall send an email notification upon registration.,The application shall calculate shipping costs based on weight.,Neutral
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The system shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The application shall process payments within 2 seconds.,The software shall support dark mode.,Neutral
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+The application shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The software shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The system shall send an email notification upon registration.,The platform shall support dark mode.,Neutral
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+The platform shall limit login attempts to 5.,The system should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+The platform shall process payments within 2 seconds.,Admins can export sales reports to CSV.,Neutral
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The platform shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The system shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The platform shall send an email notification upon registration.,The platform shall support dark mode.,Neutral
+The software shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+Users shall be able to filter search results by price.,Passwords must contain at least one special character.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The application shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users shall be able to filter search results by price.,The system shall support dark mode.,Neutral
+The software shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The platform must be accessible 24/7 without downtime.,The platform will be offline for maintenance every Sunday.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The database must backup every 12 hours.,The platform shall support dark mode.,Neutral
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The database must backup every 12 hours.,The application shall calculate shipping costs based on weight.,Neutral
+The platform shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+Users shall be able to filter search results by price.,The user profile must display a profile picture.,Neutral
+The system shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+The platform shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall process payments within 2 seconds.,The platform shall support dark mode.,Neutral
+The software shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The software must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The software shall send an email notification upon registration.,The system shall support dark mode.,Neutral
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall process payments within 2 seconds.,The application must process payment transactions in under 2 seconds.,Duplicate
+The system shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The software shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The platform shall send an email notification upon registration.,The user profile must display a profile picture.,Neutral
+The application shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The software shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall send an email notification upon registration.,The platform shall support dark mode.,Neutral
+The application shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The system shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The system shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The application shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The software shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The system shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The database must backup every 12 hours.,The software shall calculate shipping costs based on weight.,Neutral
+The database must backup every 12 hours.,The system shall support dark mode.,Neutral
+The API shall return data in JSON format.,Passwords must contain at least one special character.,Neutral
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The system shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The database must backup every 12 hours.,The application shall calculate shipping costs based on weight.,Neutral
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The application shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The application shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The application shall process payments within 2 seconds.,Passwords must contain at least one special character.,Neutral
+The API shall return data in JSON format.,Passwords must contain at least one special character.,Neutral
+The application shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The database must backup every 12 hours.,The software shall calculate shipping costs based on weight.,Neutral
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The API shall return data in JSON format.,The platform shall support dark mode.,Neutral
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The software shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The software shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The software shall send an email notification upon registration.,The user profile must display a profile picture.,Neutral
+The database must backup every 12 hours.,The user profile must display a profile picture.,Neutral
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The API shall return data in JSON format.,Passwords must contain at least one special character.,Neutral
+The API shall return data in JSON format.,The system shall support dark mode.,Neutral
+The system shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The system shall send an email notification upon registration.,Admins can export sales reports to CSV.,Neutral
+The system shall process payments within 2 seconds.,Passwords must contain at least one special character.,Neutral
+The application shall send an email notification upon registration.,The platform shall calculate shipping costs based on weight.,Neutral
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+The API shall return data in JSON format.,The system shall calculate shipping costs based on weight.,Neutral
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall support only English language.,The platform must support multiple languages including Spanish and French.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The software must be accessible 24/7 without downtime.,The platform will be offline for maintenance every Sunday.,Contradictory
+The application shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
+The database must backup every 12 hours.,The software shall support dark mode.,Neutral
+The system shall send an email notification upon registration.,The user profile must display a profile picture.,Neutral
+Users shall be able to filter search results by price.,The user profile must display a profile picture.,Neutral
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The application shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The platform must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The system shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The software must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+Users shall be able to filter search results by price.,Passwords must contain at least one special character.,Neutral
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The software shall process payments within 2 seconds.,The application shall support dark mode.,Neutral
+The system shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The platform shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The API shall return data in JSON format.,The user profile must display a profile picture.,Neutral
+The software shall process payments within 2 seconds.,Passwords must contain at least one special character.,Neutral
+The system shall process payments within 2 seconds.,Passwords must contain at least one special character.,Neutral
+The system shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The platform must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The platform must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The database must backup every 12 hours.,The platform shall support dark mode.,Neutral
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The application shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+The system must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The API shall return data in JSON format.,The application shall support dark mode.,Neutral
+The system shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The system must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The software shall send an email notification upon registration.,The system shall support dark mode.,Neutral
+The application shall process payments within 2 seconds.,The software must process payment transactions in under 2 seconds.,Duplicate
+The application shall process payments within 2 seconds.,Admins can export sales reports to CSV.,Neutral
+The application shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The system shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The system shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the software using AES-256.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The application shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The system shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The software shall encrypt all data using AES-256.,All data must be encrypted by the application using AES-256.,Duplicate
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The application shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The database must backup every 12 hours.,Admins can export sales reports to CSV.,Neutral
+The platform shall allow users to export reports to PDF.,The software must provide a feature to download reports in PDF format.,Similar
+The system must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The system shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The platform shall process payments within 2 seconds.,The system shall calculate shipping costs based on weight.,Neutral
+The system shall allow users to export reports to PDF.,The system must provide a feature to download reports in PDF format.,Similar
+The system shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The software shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The system must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+The system shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The software shall process payments within 2 seconds.,The platform shall calculate shipping costs based on weight.,Neutral
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system shall process payments within 2 seconds.,The platform must process payment transactions in under 2 seconds.,Duplicate
+The application shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The software shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The software shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The platform shall process payments within 2 seconds.,The application must process payment transactions in under 2 seconds.,Duplicate
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+The platform shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The system shall support only English language.,The application must support multiple languages including Spanish and French.,Contradictory
+The platform shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The software must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The software shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The application shall support only English language.,The system must support multiple languages including Spanish and French.,Contradictory
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The application shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The system shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users can filter search results by price.,The software shall enable filtering of search results based on price range.,Similar
+Users shall be able to filter search results by price.,The user profile must display a profile picture.,Neutral
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+Users can filter search results by price.,The platform shall enable filtering of search results based on price range.,Similar
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The API shall return data in JSON format.,Admins can export sales reports to CSV.,Neutral
+The software shall process payments within 2 seconds.,The user profile must display a profile picture.,Neutral
+The software must be accessible 24/7 without downtime.,The software will be offline for maintenance every Sunday.,Contradictory
+The software shall send an email notification upon registration.,Passwords must contain at least one special character.,Neutral
+The system must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+Users can filter search results by price.,The system shall enable filtering of search results based on price range.,Similar
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The software must be accessible 24/7 without downtime.,The system will be offline for maintenance every Sunday.,Contradictory
+Users shall be able to filter search results by price.,The system shall calculate shipping costs based on weight.,Neutral
+The application shall limit login attempts to 5.,The platform should restrict failed logins to a maximum of 5 attempts.,Duplicate
+Users shall be able to filter search results by price.,The software shall support dark mode.,Neutral
+The software must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The API shall return data in JSON format.,The application shall calculate shipping costs based on weight.,Neutral
+The platform must be accessible 24/7 without downtime.,The application will be offline for maintenance every Sunday.,Contradictory
+The application shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The software shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The platform shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The database must backup every 12 hours.,The software shall support dark mode.,Neutral
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The system shall process payments within 2 seconds.,The system must process payment transactions in under 2 seconds.,Duplicate
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The platform shall limit login attempts to 5.,The software should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+Users can filter search results by price.,The application shall enable filtering of search results based on price range.,Similar
+The software shall require users to change passwords every 30 days.,Users shall never be required to change their passwords.,Contradictory
+The system must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+The platform shall allow users to export reports to PDF.,The application must provide a feature to download reports in PDF format.,Similar
+The software shall process payments within 2 seconds.,The software shall calculate shipping costs based on weight.,Neutral
+The application shall allow users to export reports to PDF.,The platform must provide a feature to download reports in PDF format.,Similar
+The database must backup every 12 hours.,Passwords must contain at least one special character.,Neutral
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The API shall return data in JSON format.,The platform shall calculate shipping costs based on weight.,Neutral
+The database must backup every 12 hours.,Database backups shall occur automatically every 12 hours.,Duplicate
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The platform shall limit login attempts to 5.,The application should restrict failed logins to a maximum of 5 attempts.,Duplicate
+The platform shall support only English language.,The software must support multiple languages including Spanish and French.,Contradictory
+The platform shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application must store data locally on the device.,All user data shall be stored exclusively in the cloud.,Contradictory
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+Users shall be able to filter search results by price.,The application shall calculate shipping costs based on weight.,Neutral
+The system shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+Users shall be able to filter search results by price.,Admins can export sales reports to CSV.,Neutral
+The platform shall encrypt all data using AES-256.,All data must be encrypted by the platform using AES-256.,Duplicate
+Users must reset their password via email.,Users are required to recover their password through email.,Duplicate
+The application shall send an email upon registration.,Users must receive an email confirmation after signing up.,Similar
+The application shall allow anonymous access to all features.,Users must authenticate to access any feature.,Contradictory
+The application shall encrypt all data using AES-256.,All data must be encrypted by the system using AES-256.,Duplicate
